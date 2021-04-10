@@ -1,0 +1,6022 @@
+﻿[
+  {
+    "LanguageKey": "human body",
+    "LanguageValue": "人体"
+  },
+  {
+    "LanguageKey": "angiological system",
+    "LanguageValue": "脉管系统"
+  },
+  {
+    "LanguageKey": "cardiovascular system",
+    "LanguageValue": "心血管系统"
+  },
+  {
+    "LanguageKey": "Car_Anterior_internodal_bundle",
+    "LanguageValue": "前结间束"
+  },
+  {
+    "LanguageKey": "Car_Aorta_base_of",
+    "LanguageValue": "主动脉根部"
+  },
+  {
+    "LanguageKey": "Car_Aortic_arch",
+    "LanguageValue": "主动脉弓"
+  },
+  {
+    "LanguageKey": "Car_Aortic_valve_annulus",
+    "LanguageValue": "主动脉瓣环"
+  },
+  {
+    "LanguageKey": "Car_Aortic_valve_left_semilunar_cusp",
+    "LanguageValue": "主动脉瓣左半月瓣"
+  },
+  {
+    "LanguageKey": "Car_Aortic_valve_posterior_semilunar_cusp",
+    "LanguageValue": "主动脉瓣后半月瓣"
+  },
+  {
+    "LanguageKey": "Car_Aortic_valve_right_semilunar_cusp",
+    "LanguageValue": "主动脉瓣右半月瓣"
+  },
+  {
+    "LanguageKey": "Car_Atrioventricular_bundle_bundle_of_His",
+    "LanguageValue": "房室束"
+  },
+  {
+    "LanguageKey": "Car_Atrioventricular_node",
+    "LanguageValue": "房室结"
+  },
+  {
+    "LanguageKey": "Car_Common_iliac_vein_L",
+    "LanguageValue": "髂总静脉（左）"
+  },
+  {
+    "LanguageKey": "Car_External_iliac_artery_L",
+    "LanguageValue": "髂外动脉（左）"
+  },
+  {
+    "LanguageKey": "Car_Heart_diaphragmatic_surface",
+    "LanguageValue": "心膈面"
+  },
+  {
+    "LanguageKey": "Car_Heart_sternocostal_surface",
+    "LanguageValue": "心脏胸肋面"
+  },
+  {
+    "LanguageKey": "Car_Interatrial_bundle",
+    "LanguageValue": "房间束"
+  },
+  {
+    "LanguageKey": "Car_Left_atrium",
+    "LanguageValue": "左心房"
+  },
+  {
+    "LanguageKey": "Car_Middle_internodal_bundle",
+    "LanguageValue": "中节间束"
+  },
+  {
+    "LanguageKey": "Car_Mitral_valve_annulus",
+    "LanguageValue": "二尖瓣环"
+  },
+  {
+    "LanguageKey": "Car_Mitral_valve_antermedial_leaflet",
+    "LanguageValue": "二尖瓣前尖"
+  },
+  {
+    "LanguageKey": "Car_Mitral_valve_chordae_tendineae",
+    "LanguageValue": "二尖瓣腱索"
+  },
+  {
+    "LanguageKey": "Car_Mitral_valve_commissure",
+    "LanguageValue": "二尖瓣连合"
+  },
+  {
+    "LanguageKey": "Car_Mitral_valve_posterolateral_leaflet",
+    "LanguageValue": "二尖瓣后尖"
+  },
+  {
+    "LanguageKey": "Car_Moderator_band",
+    "LanguageValue": "节制索"
+  },
+  {
+    "LanguageKey": "Car_Papillary_muscle_anterior_L",
+    "LanguageValue": "前侧乳头肌（左）"
+  },
+  {
+    "LanguageKey": "Car_Papillary_muscle_anterior_R",
+    "LanguageValue": "前侧乳头肌（右）"
+  },
+  {
+    "LanguageKey": "Car_Papillary_muscle_medial",
+    "LanguageValue": "内侧乳头肌"
+  },
+  {
+    "LanguageKey": "Car_Papillary_muscle_posterior_L",
+    "LanguageValue": "后侧乳头肌（左）"
+  },
+  {
+    "LanguageKey": "Car_Papillary_muscle_posterior_R",
+    "LanguageValue": "后侧乳头肌（右）"
+  },
+  {
+    "LanguageKey": "Car_Pericardium",
+    "LanguageValue": "心包"
+  },
+  {
+    "LanguageKey": "Car_Pericardium001",
+    "LanguageValue": "心包001"
+  },
+  {
+    "LanguageKey": "Car_Posterior_internodal_bundle",
+    "LanguageValue": "后节间束"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_arteries_base_of_L",
+    "LanguageValue": "肺动脉根部（左）"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_arteries_base_of_R",
+    "LanguageValue": "肺动脉根部（右）"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_arteries_L_1",
+    "LanguageValue": "肺动脉（左）"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_arteries_R_1",
+    "LanguageValue": "肺动脉（右）"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_trunk",
+    "LanguageValue": "肺动脉干"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_trunk_base_of",
+    "LanguageValue": "肺动脉干根部"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_valve_annulus",
+    "LanguageValue": "肺动脉瓣环"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_valve_anterior_cusp",
+    "LanguageValue": "肺动脉瓣前半月瓣"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_valve_left_cusp",
+    "LanguageValue": "肺动脉瓣左半月瓣"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_valve_right_cusp",
+    "LanguageValue": "肺动脉瓣右半月瓣"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_veins_base_of_L",
+    "LanguageValue": "肺静脉根部（左）"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_veins_base_of_R",
+    "LanguageValue": "肺静脉根部（右）"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_veins_inferior_L",
+    "LanguageValue": "左下肺静脉"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_veins_inferior_R",
+    "LanguageValue": "右下肺静脉"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_veins_superior_L",
+    "LanguageValue": "左上肺静脉"
+  },
+  {
+    "LanguageKey": "Car_Pulmonary_veins_superior_R",
+    "LanguageValue": "右上肺静脉"
+  },
+  {
+    "LanguageKey": "Car_Right_atrium",
+    "LanguageValue": "右心房"
+  },
+  {
+    "LanguageKey": "Car_Sinoatrial_node",
+    "LanguageValue": "窦房结"
+  },
+  {
+    "LanguageKey": "Car_Tricuspid_valve_annulus",
+    "LanguageValue": "三尖瓣环"
+  },
+  {
+    "LanguageKey": "Car_Tricuspid_valve_anterior_leaflet",
+    "LanguageValue": "三尖瓣前尖"
+  },
+  {
+    "LanguageKey": "Car_Tricuspid_valve_chordae_tendineae",
+    "LanguageValue": "三尖瓣腱索"
+  },
+  {
+    "LanguageKey": "Car_Tricuspid_valve_commissure",
+    "LanguageValue": "三尖瓣联合"
+  },
+  {
+    "LanguageKey": "Car_Tricuspid_valve_posterior_leaflet",
+    "LanguageValue": "三尖瓣后尖"
+  },
+  {
+    "LanguageKey": "Car_Tricuspid_valve_septal_leaflet",
+    "LanguageValue": "三尖瓣隔侧尖"
+  },
+  {
+    "LanguageKey": "lymphatic system",
+    "LanguageValue": "淋巴系统"
+  },
+  {
+    "LanguageKey": "Lym_RadialGroupOfLymphVesselsL",
+    "LanguageValue": "全身淋巴系统"
+  },
+  {
+    "LanguageKey": "Lym_Spleen",
+    "LanguageValue": "脾"
+  },
+  {
+    "LanguageKey": "Lym_Thymus",
+    "LanguageValue": "胸腺"
+  },
+  {
+    "LanguageKey": "digestive system",
+    "LanguageValue": "消化系统"
+  },
+  {
+    "LanguageKey": "Dig_Anal_canal",
+    "LanguageValue": "肛管"
+  },
+  {
+    "LanguageKey": "Dig_Ascending_colon_1",
+    "LanguageValue": "升结肠"
+  },
+  {
+    "LanguageKey": "Dig_Cardiac_sphincter_front_portion",
+    "LanguageValue": "贲门括约肌前部"
+  },
+  {
+    "LanguageKey": "Dig_Cecum_1",
+    "LanguageValue": "盲肠"
+  },
+  {
+    "LanguageKey": "Dig_Circular_middle_muscle_layer",
+    "LanguageValue": "环形中间肌肉层"
+  },
+  {
+    "LanguageKey": "Dig_Common_bile_duct",
+    "LanguageValue": "胆总管"
+  },
+  {
+    "LanguageKey": "Dig_Common_hepatic_duct",
+    "LanguageValue": "肝总管"
+  },
+  {
+    "LanguageKey": "Dig_Coronary_ligament",
+    "LanguageValue": "冠状韧带"
+  },
+  {
+    "LanguageKey": "Dig_Cystic_duct",
+    "LanguageValue": "胆囊管"
+  },
+  {
+    "LanguageKey": "Dig_Descending_colon_1",
+    "LanguageValue": "降结肠"
+  },
+  {
+    "LanguageKey": "Dig_Duodenum_sectioned_back",
+    "LanguageValue": "十二指肠剖面后侧"
+  },
+  {
+    "LanguageKey": "Dig_Duodenum_sectioned_front",
+    "LanguageValue": "十二指肠剖面前侧"
+  },
+  {
+    "LanguageKey": "Dig_Esophagus",
+    "LanguageValue": "食管"
+  },
+  {
+    "LanguageKey": "Dig_Falciform_ligament",
+    "LanguageValue": "镰状韧带"
+  },
+  {
+    "LanguageKey": "Dig_Gall_bladder_1",
+    "LanguageValue": "胆囊"
+  },
+  {
+    "LanguageKey": "Dig_Gingiva",
+    "LanguageValue": "牙龈"
+  },
+  {
+    "LanguageKey": "Dig_Greater_omentum",
+    "LanguageValue": "大网膜"
+  },
+  {
+    "LanguageKey": "Dig_Hard_palate",
+    "LanguageValue": "硬腭"
+  },
+  {
+    "LanguageKey": "Dig_Hepatic_duct_L",
+    "LanguageValue": "肝导管（左）"
+  },
+  {
+    "LanguageKey": "Dig_Hepatic_duct_R",
+    "LanguageValue": "肝导管（右）"
+  },
+  {
+    "LanguageKey": "Dig_I_caudate",
+    "LanguageValue": "肝尾状叶（段I）"
+  },
+  {
+    "LanguageKey": "Dig_I_caudate001",
+    "LanguageValue": "肝尾状叶（段I）001"
+  },
+  {
+    "LanguageKey": "Dig_II_left_lateral_superior",
+    "LanguageValue": "左外叶上段（段Ⅱ）"
+  },
+  {
+    "LanguageKey": "Dig_III_Left_medial_inferior_segment",
+    "LanguageValue": "左内叶下段（段Ⅲ）"
+  },
+  {
+    "LanguageKey": "Dig_Ileum",
+    "LanguageValue": "回肠"
+  },
+  {
+    "LanguageKey": "Dig_IV_left_medial_superior_inferior_part",
+    "LanguageValue": "左内叶上下部（段Ⅳ）"
+  },
+  {
+    "LanguageKey": "Dig_IV_left_medial_superior_superior_part",
+    "LanguageValue": "左上内叶部（段Ⅳ）"
+  },
+  {
+    "LanguageKey": "Dig_Jejunum",
+    "LanguageValue": "空肠"
+  },
+  {
+    "LanguageKey": "Dig_Laryngopharynx_3",
+    "LanguageValue": "喉咽"
+  },
+  {
+    "LanguageKey": "Dig_Lesser_omentum",
+    "LanguageValue": "小网膜"
+  },
+  {
+    "LanguageKey": "Dig_Ligament_of_Treitz",
+    "LanguageValue": "Treitz韧带（十二指肠悬韧带）"
+  },
+  {
+    "LanguageKey": "Dig_Ligamentum_teres",
+    "LanguageValue": "圆韧带"
+  },
+  {
+    "LanguageKey": "Dig_Ligamentum_venosum",
+    "LanguageValue": "静脉韧带"
+  },
+  {
+    "LanguageKey": "Dig_Longitudinal_outer_muscle_layer",
+    "LanguageValue": "胃-纵向外肌层"
+  },
+  {
+    "LanguageKey": "Dig_Mucosa",
+    "LanguageValue": "粘膜"
+  },
+  {
+    "LanguageKey": "Dig_Oblique_inner_muscle_layer",
+    "LanguageValue": "胃-斜肌内层"
+  },
+  {
+    "LanguageKey": "Dig_Obliterated_umbilical_vein",
+    "LanguageValue": "脐静脉闭索"
+  },
+  {
+    "LanguageKey": "Dig_Oral_cavity_1",
+    "LanguageValue": "口腔"
+  },
+  {
+    "LanguageKey": "Dig_Oropharynx_1",
+    "LanguageValue": "口咽"
+  },
+  {
+    "LanguageKey": "Dig_Pancreas_body",
+    "LanguageValue": "胰体"
+  },
+  {
+    "LanguageKey": "Dig_Pancreas_head",
+    "LanguageValue": "胰头"
+  },
+  {
+    "LanguageKey": "Dig_Pancreas_tail",
+    "LanguageValue": "胰尾"
+  },
+  {
+    "LanguageKey": "Dig_Pancreatic_duct_main",
+    "LanguageValue": "胰腺总管"
+  },
+  {
+    "LanguageKey": "Dig_Peritoneum",
+    "LanguageValue": "腹膜"
+  },
+  {
+    "LanguageKey": "Dig_Pyloric_sphincter_front_portion",
+    "LanguageValue": "幽门括约肌前部"
+  },
+  {
+    "LanguageKey": "Dig_Rectum",
+    "LanguageValue": "直肠"
+  },
+  {
+    "LanguageKey": "Dig_Salivary_parotid_duct_L",
+    "LanguageValue": "唾液腺腮腺导管（左）"
+  },
+  {
+    "LanguageKey": "Dig_Salivary_parotid_duct_R",
+    "LanguageValue": "唾液腺腮腺导管（右）"
+  },
+  {
+    "LanguageKey": "Dig_Salivary_parotid_gland_L",
+    "LanguageValue": "唾液腺（左）"
+  },
+  {
+    "LanguageKey": "Dig_Salivary_parotid_gland_R",
+    "LanguageValue": "唾液腺（右）"
+  },
+  {
+    "LanguageKey": "Dig_Salivary_sublingual_gland_L",
+    "LanguageValue": "唾液舌下腺（左）"
+  },
+  {
+    "LanguageKey": "Dig_Salivary_sublingual_gland_R",
+    "LanguageValue": "唾液舌下腺（右）"
+  },
+  {
+    "LanguageKey": "Dig_Salivary_submandibular_duct_L",
+    "LanguageValue": "唾液颌下腺导管（左）"
+  },
+  {
+    "LanguageKey": "Dig_Salivary_submandibular_duct_R",
+    "LanguageValue": "唾液颌下腺导管（右）"
+  },
+  {
+    "LanguageKey": "Dig_Salivary_submandibular_gland_L",
+    "LanguageValue": "唾液腺颌下腺（左）"
+  },
+  {
+    "LanguageKey": "Dig_Salivary_submandibular_gland_R",
+    "LanguageValue": "唾液腺颌下腺（右）"
+  },
+  {
+    "LanguageKey": "Dig_Sigmoid_colon_1",
+    "LanguageValue": "乙状结肠"
+  },
+  {
+    "LanguageKey": "Dig_Soft_palate",
+    "LanguageValue": "软腭"
+  },
+  {
+    "LanguageKey": "Dig_Stomach_cardiac_cap",
+    "LanguageValue": "胃贲门顶部"
+  },
+  {
+    "LanguageKey": "Dig_Stomach_fundic_and_pyloric_cap_layered",
+    "LanguageValue": "胃底-幽门分层"
+  },
+  {
+    "LanguageKey": "Dig_Stomach_serosa_and_mucosa",
+    "LanguageValue": "胃浆膜和粘膜"
+  },
+  {
+    "LanguageKey": "Dig_Stomach_serosa_and_mucosa002",
+    "LanguageValue": "胃浆膜和粘膜002"
+  },
+  {
+    "LanguageKey": "Dig_Tongue",
+    "LanguageValue": "舌"
+  },
+  {
+    "LanguageKey": "Dig_Transverse_colon_1",
+    "LanguageValue": "横结肠"
+  },
+  {
+    "LanguageKey": "Dig_Triangular_ligament_L",
+    "LanguageValue": "三角韧带（左）"
+  },
+  {
+    "LanguageKey": "Dig_Triangular_ligament_R",
+    "LanguageValue": "三角韧带（右）"
+  },
+  {
+    "LanguageKey": "Dig_Uvula",
+    "LanguageValue": "悬雍垂"
+  },
+  {
+    "LanguageKey": "Dig_V_right_medial_inferior",
+    "LanguageValue": "肝右下内侧叶（段V）"
+  },
+  {
+    "LanguageKey": "Dig_VI_Right_lateral_inferior",
+    "LanguageValue": "肝右外侧下叶（段VI）"
+  },
+  {
+    "LanguageKey": "Dig_VII_Right_lateral_superior",
+    "LanguageValue": "肝右外侧上叶（段VII）"
+  },
+  {
+    "LanguageKey": "Dig_VIII_Right_medial_superior",
+    "LanguageValue": "肝右内侧上叶（段VIII）"
+  },
+  {
+    "LanguageKey": "endocrine system",
+    "LanguageValue": "内分泌系统"
+  },
+  {
+    "LanguageKey": "Dig_Pancreas_head001",
+    "LanguageValue": "胰头001"
+  },
+  {
+    "LanguageKey": "End_AdrenalGlandL",
+    "LanguageValue": "肾上腺（左）"
+  },
+  {
+    "LanguageKey": "End_AdrenalGlandR",
+    "LanguageValue": "肾上腺（右）"
+  },
+  {
+    "LanguageKey": "End_ParathyroidGlandInferiorL",
+    "LanguageValue": "下甲状旁腺（左）"
+  },
+  {
+    "LanguageKey": "End_ParathyroidGlandInferiorR",
+    "LanguageValue": "下甲状旁腺（右）"
+  },
+  {
+    "LanguageKey": "End_ParathyroidGlandSuperiorL",
+    "LanguageValue": "上甲状旁腺（左）"
+  },
+  {
+    "LanguageKey": "End_ParathyroidGlandSuperiorR",
+    "LanguageValue": "上甲状旁腺（右）"
+  },
+  {
+    "LanguageKey": "End_ThyroidGland",
+    "LanguageValue": "甲状腺"
+  },
+  {
+    "LanguageKey": "Lym_Thymus001",
+    "LanguageValue": "胸腺001"
+  },
+  {
+    "LanguageKey": "Ner_Pars_tuberalis_R001",
+    "LanguageValue": "垂体"
+  },
+  {
+    "LanguageKey": "Ner_Pineal_gland_R001",
+    "LanguageValue": "松果体"
+  },
+  {
+    "LanguageKey": "Rep_Epididymis_L001",
+    "LanguageValue": "附睾（左）"
+  },
+  {
+    "LanguageKey": "Rep_Epididymis_R001",
+    "LanguageValue": "附睾（右）"
+  },
+  {
+    "LanguageKey": "Rep_Testicle_lateral_half_L001",
+    "LanguageValue": "睾丸外侧（左）"
+  },
+  {
+    "LanguageKey": "Rep_Testicle_lateral_half_R001",
+    "LanguageValue": "睾丸外侧（右）"
+  },
+  {
+    "LanguageKey": "Rep_Testicle_medial_half_L001",
+    "LanguageValue": "睾丸内侧（左）"
+  },
+  {
+    "LanguageKey": "Rep_Testicle_medial_half_R001",
+    "LanguageValue": "睾丸内侧（右）"
+  },
+  {
+    "LanguageKey": "Rep_Vas_deferens_L001",
+    "LanguageValue": "输精管（左）"
+  },
+  {
+    "LanguageKey": "Rep_Vas_deferens_R001",
+    "LanguageValue": "输精管（右）"
+  },
+  {
+    "LanguageKey": "locomotor system",
+    "LanguageValue": "运动系统"
+  },
+  {
+    "LanguageKey": "Muscular System",
+    "LanguageValue": "肌肉系统"
+  },
+  {
+    "LanguageKey": "Mus_Abductor_digiti_minimi_foot_L",
+    "LanguageValue": "足底肌（左）-小趾展肌"
+  },
+  {
+    "LanguageKey": "Mus_Abductor_digiti_minimi_foot_L001",
+    "LanguageValue": "足底肌（左）-小趾展肌"
+  },
+  {
+    "LanguageKey": "Mus_Abductor_digiti_minimi_hand_R",
+    "LanguageValue": "手肌（右）-小指展肌"
+  },
+  {
+    "LanguageKey": "Mus_Abductor_digiti_minimi_hand_R001",
+    "LanguageValue": "手肌（右）-小指展肌"
+  },
+  {
+    "LanguageKey": "Mus_Abductor_hallucis_L",
+    "LanguageValue": "足底肌（左）-拇展肌"
+  },
+  {
+    "LanguageKey": "Mus_Abductor_hallucis_R",
+    "LanguageValue": "足底肌（右）-拇展肌"
+  },
+  {
+    "LanguageKey": "Mus_Abductor_pollicis_brevis_R",
+    "LanguageValue": "拇短展肌"
+  },
+  {
+    "LanguageKey": "Mus_Abductor_pollicis_brevis_R001",
+    "LanguageValue": "拇短展肌"
+  },
+  {
+    "LanguageKey": "Mus_Abductor_pollicis_longus_L",
+    "LanguageValue": "拇长展肌"
+  },
+  {
+    "LanguageKey": "Mus_Abductor_pollicis_longus_L001",
+    "LanguageValue": "拇长展肌"
+  },
+  {
+    "LanguageKey": "Mus_Achilles_tendon_L",
+    "LanguageValue": "跟腱"
+  },
+  {
+    "LanguageKey": "Mus_Achilles_tendon_L001",
+    "LanguageValue": "跟腱"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_brevis_L",
+    "LanguageValue": "短收肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_brevis_L001",
+    "LanguageValue": "短收肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_hallucis_oblique_head_L",
+    "LanguageValue": "拇收肌斜头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_hallucis_oblique_head_L001",
+    "LanguageValue": "拇收肌斜头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_hallucis_transverse_head_L",
+    "LanguageValue": "拇收肌横头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_hallucis_transverse_head_L001",
+    "LanguageValue": "拇收肌横头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_longus_L",
+    "LanguageValue": "长收肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_longus_L001",
+    "LanguageValue": "长收肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_magnus_L",
+    "LanguageValue": "大收肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_magnus_L001",
+    "LanguageValue": "大收肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_pollicis_L",
+    "LanguageValue": "拇收肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Adductor_pollicis_L001",
+    "LanguageValue": "拇收肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Anal_sphincter_external_L",
+    "LanguageValue": "肛门外括约肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Anal_sphincter_external_R",
+    "LanguageValue": "肛门外括约肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Anal_sphincter_internal_L",
+    "LanguageValue": "肛门内括约肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Anal_sphincter_internal_R",
+    "LanguageValue": "肛门内括约肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Anconeus_L",
+    "LanguageValue": "肘肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Anconeus_L001",
+    "LanguageValue": "肘肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Anococcygeal_ligament",
+    "LanguageValue": "尾骨韧带"
+  },
+  {
+    "LanguageKey": "Mus_Aponeurotic_band_R",
+    "LanguageValue": "腱膜（右）"
+  },
+  {
+    "LanguageKey": "Mus_Aponeurotic_band_R001",
+    "LanguageValue": "腱膜（左）"
+  },
+  {
+    "LanguageKey": "Mus_Articularis_genu_L",
+    "LanguageValue": "膝关节（左）"
+  },
+  {
+    "LanguageKey": "Mus_Articularis_genu_R",
+    "LanguageValue": "膝关节（右）"
+  },
+  {
+    "LanguageKey": "Mus_AryepiglotticFoldL",
+    "LanguageValue": "杓状会厌襞（左）"
+  },
+  {
+    "LanguageKey": "Mus_AryepiglotticFoldR",
+    "LanguageValue": "杓状会厌襞（右）"
+  },
+  {
+    "LanguageKey": "Mus_AryepiglotticL",
+    "LanguageValue": "杓会厌（左）"
+  },
+  {
+    "LanguageKey": "Mus_AryepiglotticR",
+    "LanguageValue": "杓会厌（右）"
+  },
+  {
+    "LanguageKey": "Mus_AuricularisAnteriorL",
+    "LanguageValue": "耳前肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_AuricularisAnteriorL001",
+    "LanguageValue": "耳前肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_AuricularisPosteriorR",
+    "LanguageValue": "耳后肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_AuricularisPosteriorR001",
+    "LanguageValue": "耳后肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_AuricularisSuperiorL",
+    "LanguageValue": "耳上肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_AuricularisSuperiorR",
+    "LanguageValue": "耳上肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Biceps_brachii_long_head_R",
+    "LanguageValue": "肱二头肌长头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Biceps_brachii_long_head_R001",
+    "LanguageValue": "肱二头肌长头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Biceps_brachii_short_head_L",
+    "LanguageValue": "肱二头肌短头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Biceps_brachii_short_head_L001",
+    "LanguageValue": "肱二头肌短头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Biceps_femoris_long_head_L",
+    "LanguageValue": "股二头肌长头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Biceps_femoris_long_head_L001",
+    "LanguageValue": "股二头肌长头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Biceps_femoris_short_head_L",
+    "LanguageValue": "股二头肌短头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Biceps_femoris_short_head_L001",
+    "LanguageValue": "股二头肌短头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Bicipital_aponeurosis_L",
+    "LanguageValue": "二头肌腱膜（左）"
+  },
+  {
+    "LanguageKey": "Mus_Bicipital_aponeurosis_R",
+    "LanguageValue": "二头肌腱膜（右）"
+  },
+  {
+    "LanguageKey": "Mus_Brachialis_L",
+    "LanguageValue": "肱肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Brachialis_L001",
+    "LanguageValue": "肱肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Brachioradialis_L",
+    "LanguageValue": "肱桡肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Brachioradialis_L001",
+    "LanguageValue": "肱桡肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Buccinator_muscle_L",
+    "LanguageValue": "颊肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Buccinator_muscle_R",
+    "LanguageValue": "颊肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Bulbospongiosus_L",
+    "LanguageValue": "球海绵体肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Bulbospongiosus_R",
+    "LanguageValue": "球海绵体肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Central_tendon_of_urogenital_diaphragm",
+    "LanguageValue": "泌尿生殖膈中央腱"
+  },
+  {
+    "LanguageKey": "Mus_Coccygeus_L",
+    "LanguageValue": "尾骨肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Coccygeus_L001",
+    "LanguageValue": "尾骨肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Common_tendinous_ring_L",
+    "LanguageValue": "总腱环（左）"
+  },
+  {
+    "LanguageKey": "Mus_Common_tendinous_ring_R",
+    "LanguageValue": "总腱环（右）"
+  },
+  {
+    "LanguageKey": "Mus_Coracobrachialis_L",
+    "LanguageValue": "喙肱肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Coracobrachialis_L001",
+    "LanguageValue": "喙肱肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_CorrugatorSuperciliiR",
+    "LanguageValue": "皱眉肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_CorrugatorSuperciliiR001",
+    "LanguageValue": "皱眉肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_CricothyroidObliquePartL",
+    "LanguageValue": "环甲肌斜部（左）"
+  },
+  {
+    "LanguageKey": "Mus_CricothyroidObliquePartR",
+    "LanguageValue": "环甲肌斜部（右）"
+  },
+  {
+    "LanguageKey": "Mus_CricothyroidStraightPartL",
+    "LanguageValue": "环甲肌直部（左）"
+  },
+  {
+    "LanguageKey": "Mus_CricothyroidStraightPartR",
+    "LanguageValue": "环甲肌直部（右）"
+  },
+  {
+    "LanguageKey": "Mus_Deep_transverse_perineal_L",
+    "LanguageValue": "深横行会阴（左）"
+  },
+  {
+    "LanguageKey": "Mus_Deep_transverse_perineal_L001",
+    "LanguageValue": "深横行会阴（右）"
+  },
+  {
+    "LanguageKey": "Mus_Deltoid_anterior_head_R",
+    "LanguageValue": "三角肌前头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Deltoid_anterior_head_R001",
+    "LanguageValue": "三角肌前头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Deltoid_middle_head_L",
+    "LanguageValue": "三角肌中间头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Deltoid_middle_head_L001",
+    "LanguageValue": "三角肌中间头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Deltoid_posterior_head_R",
+    "LanguageValue": "三角肌后头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Deltoid_posterior_head_R001",
+    "LanguageValue": "三角肌后头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Depressor_anguli_oris_muscle_L",
+    "LanguageValue": "降口角肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Depressor_anguli_oris_muscle_R",
+    "LanguageValue": "降口角肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Depressor_labii_inferioris_muscle_R",
+    "LanguageValue": "降下唇肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Depressor_labii_inferioris_muscle_R001",
+    "LanguageValue": "降下唇肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_DepressorSeptiL",
+    "LanguageValue": "降鼻中隔肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_DepressorSeptiR",
+    "LanguageValue": "降鼻中隔肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_DepressorSuperciliiR",
+    "LanguageValue": "降眉肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_DepressorSuperciliiR001",
+    "LanguageValue": "降眉肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Diaphragm",
+    "LanguageValue": "橫膈膜"
+  },
+  {
+    "LanguageKey": "Mus_Digastric_fibrous_loop_L",
+    "LanguageValue": "二腹肌纤维环（左）"
+  },
+  {
+    "LanguageKey": "Mus_Digastric_fibrous_loop_L001",
+    "LanguageValue": "二腹肌纤维环（右）"
+  },
+  {
+    "LanguageKey": "Mus_Digastric_L",
+    "LanguageValue": "二腹肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Digastric_L001",
+    "LanguageValue": "二腹肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Dorsal_interossei_foot_L",
+    "LanguageValue": "骨间背侧肌（左足）"
+  },
+  {
+    "LanguageKey": "Mus_Dorsal_interossei_foot_L001",
+    "LanguageValue": "骨间背侧肌（右足）"
+  },
+  {
+    "LanguageKey": "Mus_Dorsal_interosseous_1st_L",
+    "LanguageValue": "第1骨间背侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Dorsal_interosseous_1st_L001",
+    "LanguageValue": "第1骨间背侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Dorsal_interosseous_2nd_L",
+    "LanguageValue": "第2骨间背侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Dorsal_interosseous_2nd_L001",
+    "LanguageValue": "第2骨间背侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Dorsal_interosseous_3rd_L",
+    "LanguageValue": "第3骨间背侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Dorsal_interosseous_3rd_L001",
+    "LanguageValue": "第3骨间背侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Dorsal_interosseous_4th_R",
+    "LanguageValue": "第4骨间背侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Dorsal_interosseous_4th_R001",
+    "LanguageValue": "第4骨间背侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_carpi_radialis_brevis_L",
+    "LanguageValue": "桡侧腕短伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_carpi_radialis_brevis_L001",
+    "LanguageValue": "桡侧腕短伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_carpi_radialis_longus_L",
+    "LanguageValue": "桡侧腕长伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_carpi_radialis_longus_L001",
+    "LanguageValue": "桡侧腕长伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_carpi_ulnaris_L",
+    "LanguageValue": "尺侧腕伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_carpi_ulnaris_L001",
+    "LanguageValue": "尺侧腕伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_digiti_minimi_L",
+    "LanguageValue": "小指伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_digiti_minimi_L001",
+    "LanguageValue": "小指伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_digitorum_brevis_L",
+    "LanguageValue": "趾短伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_digitorum_brevis_L001",
+    "LanguageValue": "趾短伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_digitorum_L",
+    "LanguageValue": "指伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_digitorum_L001",
+    "LanguageValue": "指伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_digitorum_longus_L",
+    "LanguageValue": "趾长伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_digitorum_longus_L001",
+    "LanguageValue": "趾长伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_hallucis_brevis_L",
+    "LanguageValue": "拇短伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_hallucis_brevis_L001",
+    "LanguageValue": "拇短伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_hallucis_longus_L",
+    "LanguageValue": "拇长伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_hallucis_longus_L001",
+    "LanguageValue": "拇长伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_indicis_L",
+    "LanguageValue": "示指伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_indicis_L001",
+    "LanguageValue": "示指伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_pollicis_brevis_L",
+    "LanguageValue": "拇短伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_pollicis_brevis_L001",
+    "LanguageValue": "拇短伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_pollicis_longus_L",
+    "LanguageValue": "拇长伸肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Extensor_pollicis_longus_L001",
+    "LanguageValue": "拇长伸肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_External_intercostal_L",
+    "LanguageValue": "外肋间肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_External_intercostal_L001",
+    "LanguageValue": "外肋间肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_External_oblique_L",
+    "LanguageValue": "腹外斜肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_External_oblique_R",
+    "LanguageValue": "腹外斜肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Fibularis_brevis_L",
+    "LanguageValue": "腓骨短肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Fibularis_brevis_L001",
+    "LanguageValue": "腓骨短肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Fibularis_longus_L",
+    "LanguageValue": "腓骨长肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Fibularis_longus_L001",
+    "LanguageValue": "腓骨长肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Fibularis_tertius_L",
+    "LanguageValue": "第三腓骨肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Fibularis_tertius_L001",
+    "LanguageValue": "第三腓骨肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_carpi_radialis_L",
+    "LanguageValue": "桡侧腕屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_carpi_radialis_L001",
+    "LanguageValue": "桡侧腕屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_carpi_ulnaris_R",
+    "LanguageValue": "尺侧腕屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_carpi_ulnaris_R001",
+    "LanguageValue": "尺侧腕屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digiti_minimi_brevis_foot_L",
+    "LanguageValue": "小趾短屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digiti_minimi_brevis_foot_L001",
+    "LanguageValue": "小趾短屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digiti_minimi_brevis_hand_R",
+    "LanguageValue": "小指短屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digiti_minimi_brevis_hand_R001",
+    "LanguageValue": "小指短屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digitorum_brevis_L",
+    "LanguageValue": "趾短屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digitorum_brevis_L001",
+    "LanguageValue": "趾短屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digitorum_longus_L",
+    "LanguageValue": "趾长屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digitorum_longus_L001",
+    "LanguageValue": "趾长屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digitorum_profundus_L",
+    "LanguageValue": "指深屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digitorum_profundus_L001",
+    "LanguageValue": "指深屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digitorum_superficialis_L",
+    "LanguageValue": "指浅屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_digitorum_superficialis_L001",
+    "LanguageValue": "指浅屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_hallucis_brevis_L",
+    "LanguageValue": "拇短屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_hallucis_brevis_L001",
+    "LanguageValue": "拇短屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_hallucis_longus_L",
+    "LanguageValue": "拇长屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_hallucis_longus_L001",
+    "LanguageValue": "拇长屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_pollicis_brevis_R",
+    "LanguageValue": "拇短屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_pollicis_brevis_R001",
+    "LanguageValue": "拇短屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_pollicis_longus_L",
+    "LanguageValue": "拇长屈肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Flexor_pollicis_longus_L001",
+    "LanguageValue": "拇长屈肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Gastrocnemius_L",
+    "LanguageValue": "腓肠肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Gastrocnemius_L001",
+    "LanguageValue": "腓肠肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_GenioglossusL",
+    "LanguageValue": "颏舌肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_GenioglossusR",
+    "LanguageValue": "颏舌肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_GeniohyoidL",
+    "LanguageValue": "颏舌骨肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_GeniohyoidR",
+    "LanguageValue": "颏舌骨肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Gluteus_maximus_L",
+    "LanguageValue": "臀大肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Gluteus_maximus_L001",
+    "LanguageValue": "臀大肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Gluteus_medius_L",
+    "LanguageValue": "臀中肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Gluteus_medius_R",
+    "LanguageValue": "臀中肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Gluteus_minimus_L",
+    "LanguageValue": "臀小肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Gluteus_minimus_R",
+    "LanguageValue": "臀小肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Gracilis_L",
+    "LanguageValue": "股薄肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Gracilis_R",
+    "LanguageValue": "股薄肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_HyoglossusL",
+    "LanguageValue": "舌骨舌肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_HyoglossusR",
+    "LanguageValue": "舌骨舌肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Iliacus_L",
+    "LanguageValue": "髂肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Iliacus_R",
+    "LanguageValue": "髂肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Iliococcygeus_part_of_levator_ani_L",
+    "LanguageValue": "提睾肌髂尾肌部分（左）"
+  },
+  {
+    "LanguageKey": "Mus_Iliococcygeus_part_of_levator_ani_L001",
+    "LanguageValue": "提睾肌髂尾肌部分（右）"
+  },
+  {
+    "LanguageKey": "Mus_Iliocostalis_cervicis_L",
+    "LanguageValue": "颈髂肋肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Iliocostalis_cervicis_L001",
+    "LanguageValue": "颈髂肋肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Iliocostalis_lumborum_L",
+    "LanguageValue": "腰髂肋肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Iliocostalis_lumborum_L001",
+    "LanguageValue": "腰髂肋肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Iliocostalis_thoracis_L",
+    "LanguageValue": "胸髂肋肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Iliocostalis_thoracis_L001",
+    "LanguageValue": "胸髂肋肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Iliotibial_tract_L",
+    "LanguageValue": "髂胫束（左）"
+  },
+  {
+    "LanguageKey": "Mus_Iliotibial_tract_L001",
+    "LanguageValue": "髂胫束（右）"
+  },
+  {
+    "LanguageKey": "Mus_Inferior_and_superior_gemellus_L",
+    "LanguageValue": "上/下孖肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Inferior_and_superior_gemellus_L001",
+    "LanguageValue": "上/下孖肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Inferior_oblique_muscle_L",
+    "LanguageValue": "下斜肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Inferior_oblique_muscle_R",
+    "LanguageValue": "下斜肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Inferior_rectus_muscle_L",
+    "LanguageValue": "下直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Inferior_rectus_muscle_R",
+    "LanguageValue": "下直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Infraspinatus_L",
+    "LanguageValue": "冈下肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Infraspinatus_R",
+    "LanguageValue": "冈下肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Internal_intercostal_L",
+    "LanguageValue": "内肋间肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Internal_intercostal_L001",
+    "LanguageValue": "内肋间肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Internal_oblique_L",
+    "LanguageValue": "腹内斜肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Internal_oblique_R",
+    "LanguageValue": "腹内斜肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Interspinales_cervicis_R",
+    "LanguageValue": "颈棘间肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Interspinales_cervicis_R001",
+    "LanguageValue": "颈棘间肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Interspinales_lumborum_L",
+    "LanguageValue": "腰棘间肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Interspinales_lumborum_L001",
+    "LanguageValue": "腰棘间肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Intertransversarii_anteriores_cervicis_L",
+    "LanguageValue": "颈横突间前肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Intertransversarii_anteriores_cervicis_L001",
+    "LanguageValue": "颈横突间前肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Intertransversarii_laterales_lumborum_L",
+    "LanguageValue": "腰横突间外侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Intertransversarii_laterales_lumborum_L001",
+    "LanguageValue": "腰横突间外侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Intertransversarii_mediales_lumborum_L",
+    "LanguageValue": "腰横突间内侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Intertransversarii_mediales_lumborum_L001",
+    "LanguageValue": "腰横突间内侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Intertransversarii_posteriores_cervicis_L",
+    "LanguageValue": "颈横突间后肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Intertransversarii_posteriores_cervicis_L001",
+    "LanguageValue": "颈横突间后肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Ischiocavernosus_L",
+    "LanguageValue": "坐骨海绵体肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Ischiocavernosus_R",
+    "LanguageValue": "坐骨海绵体肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Lateral_pterygoid_muscle_superior_and_inferior_heads__L",
+    "LanguageValue": "侧翼状肌上/下头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Lateral_pterygoid_muscle_superior_and_inferior_heads__R",
+    "LanguageValue": "侧翼状肌上/下头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Lateral_rectus_muscle_L",
+    "LanguageValue": "外直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Lateral_rectus_muscle_R",
+    "LanguageValue": "外直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_LateralCricoarytenoidL",
+    "LanguageValue": "环杓外肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_LateralCricoarytenoidL001",
+    "LanguageValue": "环杓外肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Latissimus_dorsi_L",
+    "LanguageValue": "背阔肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Latissimus_dorsi_L001",
+    "LanguageValue": "背阔肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Levator_anguli_oris_muscle_L",
+    "LanguageValue": "提口角肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Levator_anguli_oris_muscle_R",
+    "LanguageValue": "提口角肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Levator_labii_superioris_muscle_L",
+    "LanguageValue": "提上唇肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Levator_labii_superioris_muscle_R",
+    "LanguageValue": "提上唇肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Levator_scapulae_L",
+    "LanguageValue": "肩胛提肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Levator_scapulae_L001",
+    "LanguageValue": "肩胛提肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Levatores_costarum_breves_L",
+    "LanguageValue": "肋短提肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Levatores_costarum_breves_L001",
+    "LanguageValue": "肋短提肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_LevatorLabiiSuperiorisAlaequeNasiL",
+    "LanguageValue": "提上唇鼻翼肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_LevatorLabiiSuperiorisAlaequeNasiL001",
+    "LanguageValue": "提上唇鼻翼肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_LevatorPalpebraeSuperiorisR",
+    "LanguageValue": "上睑提肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_LevatorPalpebraeSuperiorisR001",
+    "LanguageValue": "上睑提肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Longissimus_capitis_L",
+    "LanguageValue": "头长肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Longissimus_capitis_L001",
+    "LanguageValue": "头长肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Longissimus_cervicis_R",
+    "LanguageValue": "颈长肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Longissimus_cervicis_R001",
+    "LanguageValue": "颈长肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Longissimus_thoracis_L",
+    "LanguageValue": "胸最长肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Longissimus_thoracis_L001",
+    "LanguageValue": "胸最长肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Longus_capitis_L",
+    "LanguageValue": "头长肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Longus_capitis_L001",
+    "LanguageValue": "头长肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Longus_colli_inferior_oblique_L",
+    "LanguageValue": "颈长肌下斜肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Longus_colli_inferior_oblique_L001",
+    "LanguageValue": "颈长肌下斜肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Longus_colli_superior_oblique_L",
+    "LanguageValue": "颈长肌上斜肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Longus_colli_superior_oblique_L001",
+    "LanguageValue": "颈长肌上斜肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Longus_colli_vertical_L",
+    "LanguageValue": "颈长肌垂直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Longus_colli_vertical_L001",
+    "LanguageValue": "颈长肌垂直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Lumbrical_1st_L",
+    "LanguageValue": "第1蚓状肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Lumbrical_1st_R",
+    "LanguageValue": "第1蚓状肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Lumbrical_2nd_R",
+    "LanguageValue": "第2蚓状肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Lumbrical_2nd_R001",
+    "LanguageValue": "第2蚓状肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Lumbrical_3rd_L",
+    "LanguageValue": "第3蚓状肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Lumbrical_3rd_R",
+    "LanguageValue": "第3蚓状肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Lumbrical_4th_R",
+    "LanguageValue": "第4蚓状肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Lumbrical_4th_R001",
+    "LanguageValue": "第4蚓状肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Lumbricals_foot_L",
+    "LanguageValue": "足-蚓状肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Lumbricals_foot_L001",
+    "LanguageValue": "足-蚓状肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Masseter_muscle_Deep_part__L",
+    "LanguageValue": "咬肌深部（左）"
+  },
+  {
+    "LanguageKey": "Mus_Masseter_muscle_Deep_part__R",
+    "LanguageValue": "咬肌深部（右）"
+  },
+  {
+    "LanguageKey": "Mus_Masseter_muscle_Superficial_part__L",
+    "LanguageValue": "咬肌浅部（左）"
+  },
+  {
+    "LanguageKey": "Mus_Masseter_muscle_Superficial_part__R",
+    "LanguageValue": "咬肌浅部（右）"
+  },
+  {
+    "LanguageKey": "Mus_Medial_pterygoid_muscle_L",
+    "LanguageValue": "翼内肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Medial_pterygoid_muscle_R",
+    "LanguageValue": "翼内肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Medial_rectus_muscle_L",
+    "LanguageValue": "內直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Medial_rectus_muscle_R",
+    "LanguageValue": "內直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Mentalis_muscle_L",
+    "LanguageValue": "颏肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Mentalis_muscle_R",
+    "LanguageValue": "颏肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Multifidus_L",
+    "LanguageValue": "多裂肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Multifidus_R",
+    "LanguageValue": "多裂肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Mus_Levatores_costarum_longi_L",
+    "LanguageValue": "肋长提肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Mus_Levatores_costarum_longi_L001",
+    "LanguageValue": "肋长提肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Mylohyoid_L",
+    "LanguageValue": "下颔舌骨肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Mylohyoid_L_1",
+    "LanguageValue": "下颔舌骨肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_NasalisAlarPortionL",
+    "LanguageValue": "鼻肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_NasalisAlarPortionL001",
+    "LanguageValue": "鼻肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_NasalisTransversePortionL",
+    "LanguageValue": "鼻肌侧横段（左）"
+  },
+  {
+    "LanguageKey": "Mus_NasalisTransversePortionL001",
+    "LanguageValue": "鼻肌侧横段（右）"
+  },
+  {
+    "LanguageKey": "Mus_ObliqueArytenoid",
+    "LanguageValue": "杓斜肌"
+  },
+  {
+    "LanguageKey": "Mus_Obliquus_capitis_inferior_L",
+    "LanguageValue": "头下斜肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Obliquus_capitis_inferior_L001",
+    "LanguageValue": "头下斜肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Obliquus_capitis_superior_L",
+    "LanguageValue": "头上斜肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Obliquus_capitis_superior_L001",
+    "LanguageValue": "头上斜肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Obturator_externus_L",
+    "LanguageValue": "闭孔外肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Obturator_externus_L001",
+    "LanguageValue": "闭孔外肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Obturator_internus_L",
+    "LanguageValue": "闭孔内肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Obturator_internus_L001",
+    "LanguageValue": "闭孔内肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Occipitofrontalis muscle",
+    "LanguageValue": "枕额肌"
+  },
+  {
+    "LanguageKey": "Mus_Omohyoid_L",
+    "LanguageValue": "肩胛舌骨肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Omohyoid_L001",
+    "LanguageValue": "肩胛舌骨肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Opponens_digiti_minimi_foot_L",
+    "LanguageValue": "小趾对掌肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Opponens_digiti_minimi_foot_L001",
+    "LanguageValue": "小趾对掌肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Opponens_digiti_minimi_hand_R",
+    "LanguageValue": "小指对掌肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Opponens_digiti_minimi_hand_R001",
+    "LanguageValue": "小指对掌肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Opponens_pollicis_R",
+    "LanguageValue": "拇对掌肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Opponens_pollicis_R001",
+    "LanguageValue": "拇对掌肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Orbicularis oculi muscle_L",
+    "LanguageValue": "眼轮匝肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Orbicularis oculi muscle_R",
+    "LanguageValue": "眼轮匝肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Orbicularis oris muscle",
+    "LanguageValue": "口轮匝肌"
+  },
+  {
+    "LanguageKey": "Mus_PalatoglossusL",
+    "LanguageValue": "腭舌肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_PalatoglossusR",
+    "LanguageValue": "腭舌肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Palmar_interosseous_1st_L",
+    "LanguageValue": "第1骨间掌侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Palmar_interosseous_1st_L001",
+    "LanguageValue": "第1骨间掌侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Palmar_interosseous_2nd_L",
+    "LanguageValue": "第2骨间掌侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Palmar_interosseous_2nd_R",
+    "LanguageValue": "第2骨间掌侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Palmar_interosseous_3rd_R",
+    "LanguageValue": "第3骨间掌侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Palmar_interosseous_3rd_R001",
+    "LanguageValue": "第3骨间掌侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Palmaris_brevis_L",
+    "LanguageValue": "掌短肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Palmaris_brevis_R",
+    "LanguageValue": "掌短肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Palmaris_longus_L",
+    "LanguageValue": "掌长肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Palmaris_longus_L001",
+    "LanguageValue": "掌长肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Pectineus_L",
+    "LanguageValue": "耻骨肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Pectineus_L001",
+    "LanguageValue": "耻骨肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Pectoralis_major_L",
+    "LanguageValue": "胸大肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Pectoralis_major_L001",
+    "LanguageValue": "胸大肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Pectoralis_minor_L",
+    "LanguageValue": "胸小肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Pectoralis_minor_L001",
+    "LanguageValue": "胸小肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Piriformis_R",
+    "LanguageValue": "梨状肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Piriformis_R001",
+    "LanguageValue": "梨状肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Plantar_interossei_L",
+    "LanguageValue": "骨间足底肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Plantar_interossei_L001",
+    "LanguageValue": "骨间足底肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Plantaris_L",
+    "LanguageValue": "跖肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Plantaris_L001",
+    "LanguageValue": "跖肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Platysma_L",
+    "LanguageValue": "颈阔肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Platysma_L001",
+    "LanguageValue": "颈阔肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Popliteus_L",
+    "LanguageValue": "腘肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Popliteus_R",
+    "LanguageValue": "腘肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_PosteriorCricoarytenoidL",
+    "LanguageValue": "环杓后肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_PosteriorCricoarytenoidL001",
+    "LanguageValue": "环杓后肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Prerectal_fibers_part_of_levator_ani_R",
+    "LanguageValue": "肛提肌直肠前纤维（右）"
+  },
+  {
+    "LanguageKey": "Mus_Prerectal_fibers_part_of_levator_ani_R001",
+    "LanguageValue": "肛提肌直肠前纤维（左）"
+  },
+  {
+    "LanguageKey": "Mus_ProcerusR",
+    "LanguageValue": "降眉间肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_ProcerusR001",
+    "LanguageValue": "降眉间肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Pronator_quadratus_L",
+    "LanguageValue": "旋前方肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Pronator_quadratus_L001",
+    "LanguageValue": "旋前方肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Pronator_teres_L",
+    "LanguageValue": "旋前圆肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Pronator_teres_L001",
+    "LanguageValue": "旋前圆肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Psoas_major_L",
+    "LanguageValue": "腰大肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Psoas_major_L001",
+    "LanguageValue": "腰大肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Psoas_minor_L",
+    "LanguageValue": "腰小肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Psoas_minor_L001",
+    "LanguageValue": "腰小肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Pterygomandibular_raphe_R",
+    "LanguageValue": "翼突下颌缝（右）"
+  },
+  {
+    "LanguageKey": "Mus_Pterygomandibular_raphe_R001",
+    "LanguageValue": "翼突下颌缝（左）"
+  },
+  {
+    "LanguageKey": "Mus_Pubococcygeus_part_of_levator_ani_L",
+    "LanguageValue": "提肛耻骨肌部分（左）"
+  },
+  {
+    "LanguageKey": "Mus_Pubococcygeus_part_of_levator_ani_R",
+    "LanguageValue": "提肛耻骨肌部分（右）"
+  },
+  {
+    "LanguageKey": "Mus_Puborectalis_part_of_levator_ani_L",
+    "LanguageValue": "肛门提肌耻骨肌部分（左）"
+  },
+  {
+    "LanguageKey": "Mus_Puborectalis_part_of_levator_ani_R",
+    "LanguageValue": "肛门提肌耻骨肌部分（右）"
+  },
+  {
+    "LanguageKey": "Mus_Pyramidalis_L",
+    "LanguageValue": "锥形肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Pyramidalis_R",
+    "LanguageValue": "锥形肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Quadratus_femoris_L",
+    "LanguageValue": "股方肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Quadratus_femoris_R",
+    "LanguageValue": "股方肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Quadratus_lumborum_L",
+    "LanguageValue": "腰方肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Quadratus_lumborum_L001",
+    "LanguageValue": "腰方肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Quadratus_plantae_L",
+    "LanguageValue": "足底方肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Quadratus_plantae_R",
+    "LanguageValue": "足底方肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_abdominis_L",
+    "LanguageValue": "腹直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_abdominis_R",
+    "LanguageValue": "腹直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_capitis_anterior_L",
+    "LanguageValue": "头前直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_capitis_anterior_L001",
+    "LanguageValue": "头前直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_capitis_lateralis_L",
+    "LanguageValue": "头侧直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_capitis_lateralis_L001",
+    "LanguageValue": "头侧直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_capitis_posterior_major_L",
+    "LanguageValue": "头后大直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_capitis_posterior_major_L001",
+    "LanguageValue": "头后大直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_capitis_posterior_minor_L",
+    "LanguageValue": "头后小直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_capitis_posterior_minor_L001",
+    "LanguageValue": "头后小直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_femoris_L",
+    "LanguageValue": "股直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Rectus_femoris_L001",
+    "LanguageValue": "股直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rhomboideus_major_R",
+    "LanguageValue": "大菱形肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rhomboideus_major_R001",
+    "LanguageValue": "大菱形肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Rhomboideus_minor_R",
+    "LanguageValue": "小菱形肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rhomboideus_minor_R001",
+    "LanguageValue": "小菱形肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Risorius_muscle_L",
+    "LanguageValue": "笑肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Risorius_muscle_R",
+    "LanguageValue": "笑肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rotatores_breves_L",
+    "LanguageValue": "短回旋肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Rotatores_breves_L001",
+    "LanguageValue": "短回旋肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Rotatores_longi_L",
+    "LanguageValue": "回旋肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Rotatores_longi_L001",
+    "LanguageValue": "回旋肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Sartorius_L",
+    "LanguageValue": "缝匠肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Sartorius_L001",
+    "LanguageValue": "缝匠肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Scalene_anterior_L",
+    "LanguageValue": "前斜角肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Scalene_anterior_L_1",
+    "LanguageValue": "前斜角肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Scalene_middle_L",
+    "LanguageValue": "中斜角肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Scalene_middle_L001",
+    "LanguageValue": "中斜角肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Scalene_posterior_L",
+    "LanguageValue": "后斜角肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Scalene_posterior_L_1",
+    "LanguageValue": "后斜角肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Semimembranosus_L",
+    "LanguageValue": "半膜肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Semimembranosus_L001",
+    "LanguageValue": "半膜肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Semispinalis_capitis_lateral_fascicle_L",
+    "LanguageValue": "头半棘肌侧束（左）"
+  },
+  {
+    "LanguageKey": "Mus_Semispinalis_capitis_lateral_fascicle_L001",
+    "LanguageValue": "头半棘肌侧束（右）"
+  },
+  {
+    "LanguageKey": "Mus_Semispinalis_capitis_medial_fascicle_L",
+    "LanguageValue": "头半棘肌中间分支（左）"
+  },
+  {
+    "LanguageKey": "Mus_Semispinalis_capitis_medial_fascicle_L001",
+    "LanguageValue": "头半棘肌中间分支（右）"
+  },
+  {
+    "LanguageKey": "Mus_Semispinalis_cervicis_L",
+    "LanguageValue": "颈半棘肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Semispinalis_cervicis_L001",
+    "LanguageValue": "颈半棘肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Semispinalis_thoracis_L",
+    "LanguageValue": "胸半棘肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Semispinalis_thoracis_L001",
+    "LanguageValue": "胸半棘肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Semitendinosus_L",
+    "LanguageValue": "半腱肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Semitendinosus_R",
+    "LanguageValue": "半腱肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Serratus_anterior_L",
+    "LanguageValue": "前锯肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Serratus_anterior_L001",
+    "LanguageValue": "前锯肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Serratus_posterior_inferior_R",
+    "LanguageValue": "下后锯肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Serratus_posterior_inferior_R001",
+    "LanguageValue": "下后锯肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Serratus_posterior_superior_R",
+    "LanguageValue": "上后锯肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Serratus_posterior_superior_R001",
+    "LanguageValue": "上后锯肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Soleus_L",
+    "LanguageValue": "比目鱼肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Soleus_R",
+    "LanguageValue": "比目鱼肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Spinalis_cervicis_L",
+    "LanguageValue": "颈棘肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Spinalis_cervicis_L001",
+    "LanguageValue": "颈棘肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Spinalis_thoracis_L",
+    "LanguageValue": "胸棘肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Spinalis_thoracis_L001",
+    "LanguageValue": "胸棘肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Splenius_capitis_L",
+    "LanguageValue": "头夹肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Splenius_capitis_L001",
+    "LanguageValue": "头夹肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Splenius_cervicis_R",
+    "LanguageValue": "颈夹肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Splenius_cervicis_R001",
+    "LanguageValue": "颈夹肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Sternalis_L",
+    "LanguageValue": "胸骨肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Sternalis_L001",
+    "LanguageValue": "胸骨肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Sternocleidomastoid_L_1",
+    "LanguageValue": "胸锁乳突肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Sternocleidomastoid_L_002",
+    "LanguageValue": "胸锁乳突肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Sternohyoid_L",
+    "LanguageValue": "胸骨舌骨肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Sternohyoid_L001",
+    "LanguageValue": "胸骨舌骨肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Sternothyroid_L",
+    "LanguageValue": "胸骨甲状肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Sternothyroid_L001",
+    "LanguageValue": "胸骨甲状肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_StyloglossusL",
+    "LanguageValue": "茎突舌肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_StyloglossusL001",
+    "LanguageValue": "茎突舌肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Stylohyoid_L",
+    "LanguageValue": "茎突舌骨肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Stylohyoid_L001",
+    "LanguageValue": "茎突舌骨肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Subclavius_L",
+    "LanguageValue": "锁骨下肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Subclavius_R",
+    "LanguageValue": "锁骨下肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Subcostal_L",
+    "LanguageValue": "肋下肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Subcostal_R",
+    "LanguageValue": "肋下肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Subscapularis_L",
+    "LanguageValue": "肩胛下肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Subscapularis_L001",
+    "LanguageValue": "肩胛下肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Superficial_transverse_perineal_L",
+    "LanguageValue": "浅横会阴（左）"
+  },
+  {
+    "LanguageKey": "Mus_Superficial_transverse_perineal_L001",
+    "LanguageValue": "浅横会阴（右）"
+  },
+  {
+    "LanguageKey": "Mus_Superior_oblique_muscle_L",
+    "LanguageValue": "上斜肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Superior_oblique_muscle_R",
+    "LanguageValue": "上斜肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Superior_rectus_muscle_L",
+    "LanguageValue": "上直肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Superior_rectus_muscle_R",
+    "LanguageValue": "上直肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Supinator_L",
+    "LanguageValue": "旋后肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Supinator_L001",
+    "LanguageValue": "旋后肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Supraspinatus_L",
+    "LanguageValue": "冈上肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Supraspinatus_L001",
+    "LanguageValue": "冈上肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Temporalis muscle_L",
+    "LanguageValue": "颞肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Temporalis muscle_R",
+    "LanguageValue": "颞肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Temporoparietalis muscle_L",
+    "LanguageValue": "颞顶肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Temporoparietalis muscle_R",
+    "LanguageValue": "颞顶肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Tensor_fascia_lata_L",
+    "LanguageValue": "阔筋膜张肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Tensor_fascia_lata_L001",
+    "LanguageValue": "阔筋膜张肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Teres_major_L",
+    "LanguageValue": "大圆肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Teres_major_L001",
+    "LanguageValue": "大圆肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Teres_minor_L",
+    "LanguageValue": "小圆肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Teres_minor_L001",
+    "LanguageValue": "小圆肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_ThyroarytenoidL",
+    "LanguageValue": "甲杓肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_ThyroarytenoidR",
+    "LanguageValue": "甲杓肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_ThyroepiglotticL",
+    "LanguageValue": "甲状会厌（左）"
+  },
+  {
+    "LanguageKey": "Mus_ThyroepiglotticR",
+    "LanguageValue": "甲状会厌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Thyrohyoid_L",
+    "LanguageValue": "甲状舌骨肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Thyrohyoid_L001",
+    "LanguageValue": "甲状舌骨肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Tibialis_anterior_L",
+    "LanguageValue": "胫骨前肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Tibialis_anterior_L001",
+    "LanguageValue": "胫骨前肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Tibialis_posterior_L",
+    "LanguageValue": "胫骨后肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Tibialis_posterior_L001",
+    "LanguageValue": "胫骨后肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_TransverseArytenoid",
+    "LanguageValue": "杓横肌"
+  },
+  {
+    "LanguageKey": "Mus_Transversus_abdominis_L",
+    "LanguageValue": "腹横肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Transversus_abdominis_R",
+    "LanguageValue": "腹横肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Transversus_thoracis_L",
+    "LanguageValue": "胸横肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Transversus_thoracis_L001",
+    "LanguageValue": "胸横肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Trapezius_L",
+    "LanguageValue": "斜方肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Trapezius_L001",
+    "LanguageValue": "斜方肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Triceps_brachii_medial_head_R",
+    "LanguageValue": "肱三头肌内侧头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Triceps_brachii_medial_head_R001",
+    "LanguageValue": "肱三头肌内侧头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Triceps_lateral_head_R",
+    "LanguageValue": "肱三头肌外侧头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Triceps_lateral_head_R001",
+    "LanguageValue": "肱三头肌外侧头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Triceps_long_head_R",
+    "LanguageValue": "肱三头肌长头（右）"
+  },
+  {
+    "LanguageKey": "Mus_Triceps_long_head_R001",
+    "LanguageValue": "肱三头肌长头（左）"
+  },
+  {
+    "LanguageKey": "Mus_Triceps_tendon_L",
+    "LanguageValue": "肱三头肌腱（左）"
+  },
+  {
+    "LanguageKey": "Mus_Triceps_tendon_L001",
+    "LanguageValue": "肱三头肌腱（右）"
+  },
+  {
+    "LanguageKey": "Mus_Vastus_intermedius_L",
+    "LanguageValue": "股中间肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Vastus_intermedius_R",
+    "LanguageValue": "股中间肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Vastus_lateralis_L",
+    "LanguageValue": "股外侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Vastus_lateralis_L001",
+    "LanguageValue": "股外侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Vastus_medialis_L",
+    "LanguageValue": "股内侧肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Vastus_medialis_L001",
+    "LanguageValue": "股内侧肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_VocalisL",
+    "LanguageValue": "声带肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_VocalisL001",
+    "LanguageValue": "声带肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Zygomaticus_major_muscle_L",
+    "LanguageValue": "颧大肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Zygomaticus_major_muscle_R",
+    "LanguageValue": "颧大肌（右）"
+  },
+  {
+    "LanguageKey": "Mus_Zygomaticus_minor_muscle_L",
+    "LanguageValue": "颧小肌（左）"
+  },
+  {
+    "LanguageKey": "Mus_Zygomaticus_minor_muscle_R",
+    "LanguageValue": "颧小肌（右）"
+  },
+  {
+    "LanguageKey": "Skeletal System",
+    "LanguageValue": "骨骼系统"
+  },
+  {
+    "LanguageKey": "Ske_1st_Distal_phalanx_hallux__L",
+    "LanguageValue": "第1拇趾末节（左）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Distal_phalanx_hallux__R",
+    "LanguageValue": "第1拇趾末节（右）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Distal_phalanx_pollex__L",
+    "LanguageValue": "第1拇指末节（左）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Distal_phalanx_pollex__R",
+    "LanguageValue": "第1拇指末节（右）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Metacarpal_pollex__L",
+    "LanguageValue": "第1掌骨（左手）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Metacarpal_pollex__R",
+    "LanguageValue": "第1掌骨（右手）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Metatarsal_hallux__L",
+    "LanguageValue": "第1跖骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Metatarsal_hallux__R",
+    "LanguageValue": "第1跖骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Proximal_phalanx_hallux__L",
+    "LanguageValue": "第1拇趾近端（左）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Proximal_phalanx_hallux__R",
+    "LanguageValue": "第1拇趾近端（右）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Proximal_phalanx_pollex__L",
+    "LanguageValue": "第1拇指近端（左）"
+  },
+  {
+    "LanguageKey": "Ske_1st_Proximal_phalanx_pollex__R",
+    "LanguageValue": "第1拇指近端（右）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Distal_phalanx_foot__L",
+    "LanguageValue": "第2远节趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Distal_phalanx_foot__R",
+    "LanguageValue": "第2远节趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Distal_phalanx_hand__L",
+    "LanguageValue": "第2远节指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Distal_phalanx_hand__R",
+    "LanguageValue": "第2远节指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Metacarpal_L",
+    "LanguageValue": "第2掌骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Metacarpal_R",
+    "LanguageValue": "第2掌骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Metatarsal_L",
+    "LanguageValue": "第2跖骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Metatarsal_R",
+    "LanguageValue": "第2跖骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Middle_phalanx_foot__L",
+    "LanguageValue": "第2中趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Middle_phalanx_foot__R",
+    "LanguageValue": "第2中趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Middle_phalanx_hand__L",
+    "LanguageValue": "第2中指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Middle_phalanx_hand__R",
+    "LanguageValue": "第2中指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Proximal_phalanx_foot__L",
+    "LanguageValue": "第2近节趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Proximal_phalanx_foot__R",
+    "LanguageValue": "第2近节趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Proximal_phalanx_hand__L",
+    "LanguageValue": "第2近节指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_2nd_Proximal_phalanx_hand__R",
+    "LanguageValue": "第2近节指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Distal_phalanx_foot__L",
+    "LanguageValue": "第3远节趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Distal_phalanx_foot__R",
+    "LanguageValue": "第3远节趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Distal_phalanx_hand__L",
+    "LanguageValue": "第3远节指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Distal_phalanx_hand__R",
+    "LanguageValue": "第3远节指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Metacarpal_L",
+    "LanguageValue": "第3掌骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Metacarpal_R",
+    "LanguageValue": "第3掌骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Metatarsal_L",
+    "LanguageValue": "第3跖骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Metatarsal_R",
+    "LanguageValue": "第3跖骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Middle_phalanx_foot__L",
+    "LanguageValue": "第3中趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Middle_phalanx_foot__R",
+    "LanguageValue": "第3中趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Middle_phalanx_hand__L",
+    "LanguageValue": "第3中指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Middle_phalanx_hand__R",
+    "LanguageValue": "第3中指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Proximal_phalanx_foot__L",
+    "LanguageValue": "第3近节趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Proximal_phalanx_foot__R",
+    "LanguageValue": "第3近节趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Proximal_phalanx_hand__L",
+    "LanguageValue": "第3近节指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_3rd_Proximal_phalanx_hand__R",
+    "LanguageValue": "第3近节指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Distal_phalanx_foot__L",
+    "LanguageValue": "第4远节趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Distal_phalanx_foot__R",
+    "LanguageValue": "第4远节趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Distal_phalanx_hand__L",
+    "LanguageValue": "第4远节指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Distal_phalanx_hand__R",
+    "LanguageValue": "第4远节指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Metacarpal_L",
+    "LanguageValue": "第4掌骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Metacarpal_R",
+    "LanguageValue": "第4掌骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Metatarsal_L",
+    "LanguageValue": "第4跖骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Metatarsal_R",
+    "LanguageValue": "第4跖骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Middle_phalanx_foot__L",
+    "LanguageValue": "第4中趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Middle_phalanx_foot__R",
+    "LanguageValue": "第4中趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Middle_phalanx_hand__L",
+    "LanguageValue": "第4中指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Middle_phalanx_hand__R",
+    "LanguageValue": "第4中指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Proximal_phalanx_foot__L",
+    "LanguageValue": "第4近节趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Proximal_phalanx_foot__R",
+    "LanguageValue": "第4近节趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Proximal_phalanx_hand__L",
+    "LanguageValue": "第4近节指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_4th_Proximal_phalanx_hand__R",
+    "LanguageValue": "第4近节指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Distal_phalanx_foot__L",
+    "LanguageValue": "第5远节趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Distal_phalanx_foot__R",
+    "LanguageValue": "第5远节趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Distal_phalanx_hand__L",
+    "LanguageValue": "第5远节指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Distal_phalanx_hand__R",
+    "LanguageValue": "第5远节指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Metacarpal_L",
+    "LanguageValue": "第5掌骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Metacarpal_R",
+    "LanguageValue": "第5掌骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Metatarsal_L",
+    "LanguageValue": "第5跖骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Metatarsal_R",
+    "LanguageValue": "第5跖骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Middle_phalanx_foot__L",
+    "LanguageValue": "第5中趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Middle_phalanx_foot__R",
+    "LanguageValue": "第5中趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Middle_phalanx_hand__L",
+    "LanguageValue": "第5中指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Middle_phalanx_hand__R",
+    "LanguageValue": "第5中指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Proximal_phalanx_foot__L",
+    "LanguageValue": "第5近节趾骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Proximal_phalanx_foot__R",
+    "LanguageValue": "第5近节趾骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Proximal_phalanx_hand__L",
+    "LanguageValue": "第5近节指骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_5th_Proximal_phalanx_hand__R",
+    "LanguageValue": "第5近节指骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Body_of_sternum",
+    "LanguageValue": "胸骨体"
+  },
+  {
+    "LanguageKey": "Ske_C01_Atlas",
+    "LanguageValue": "第1颈椎-寰椎"
+  },
+  {
+    "LanguageKey": "Ske_C02_Axis",
+    "LanguageValue": "第2颈椎-枢椎"
+  },
+  {
+    "LanguageKey": "Ske_C03_Vertebra",
+    "LanguageValue": "第3颈椎"
+  },
+  {
+    "LanguageKey": "Ske_C04_Vertebra",
+    "LanguageValue": "第4颈椎"
+  },
+  {
+    "LanguageKey": "Ske_C05_Vertebra",
+    "LanguageValue": "第5颈椎"
+  },
+  {
+    "LanguageKey": "Ske_C06_Vertebra",
+    "LanguageValue": "第6颈椎"
+  },
+  {
+    "LanguageKey": "Ske_C07_Vertebra",
+    "LanguageValue": "第7颈椎"
+  },
+  {
+    "LanguageKey": "Ske_Calcaneus_L",
+    "LanguageValue": "跟骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Calcaneus_R",
+    "LanguageValue": "跟骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Canine_cuspid__L",
+    "LanguageValue": "尖牙（左）"
+  },
+  {
+    "LanguageKey": "Ske_Canine_cuspid__L_1",
+    "LanguageValue": "尖牙（左）1"
+  },
+  {
+    "LanguageKey": "Ske_Canine_cuspid__R",
+    "LanguageValue": "尖牙（右）"
+  },
+  {
+    "LanguageKey": "Ske_Canine_cuspid__R_1",
+    "LanguageValue": "尖牙（右）1"
+  },
+  {
+    "LanguageKey": "Ske_Capitate_R",
+    "LanguageValue": "头状骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Capitate_R_1",
+    "LanguageValue": "头状骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Clavicle_L",
+    "LanguageValue": "锁骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Clavicle_R",
+    "LanguageValue": "锁骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Coccyx",
+    "LanguageValue": "尾骨"
+  },
+  {
+    "LanguageKey": "Ske_Cuboid_L",
+    "LanguageValue": "骰骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Cuboid_R",
+    "LanguageValue": "骰骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Eighth_costal_bone_08__L",
+    "LanguageValue": "第8肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Eighth_costal_bone_08__R",
+    "LanguageValue": "第8肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Eleventh_costal_bone_11__L",
+    "LanguageValue": "第11肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Eleventh_costal_bone_11__R",
+    "LanguageValue": "第11肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Ethmoid_1",
+    "LanguageValue": "筛骨"
+  },
+  {
+    "LanguageKey": "Ske_Ethmoid_perpendicular_plate",
+    "LanguageValue": "筛骨垂直板"
+  },
+  {
+    "LanguageKey": "Ske_Femur_thigh__L",
+    "LanguageValue": "股骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Femur_thigh__R",
+    "LanguageValue": "股骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Fibula_leg__L",
+    "LanguageValue": "腓骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Fibula_leg__R",
+    "LanguageValue": "腓骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Fifth_costal_bone_05__L",
+    "LanguageValue": "第5肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Fifth_costal_bone_05__R",
+    "LanguageValue": "第5肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_First_costal_bone_01__L",
+    "LanguageValue": "第1肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_First_costal_bone_01__R",
+    "LanguageValue": "第1肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Fourth_costal_bone_04__L",
+    "LanguageValue": "第4肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Fourth_costal_bone_04__R",
+    "LanguageValue": "第4肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Frontal_1",
+    "LanguageValue": "额骨1"
+  },
+  {
+    "LanguageKey": "Ske_Frontal_2",
+    "LanguageValue": "额骨2"
+  },
+  {
+    "LanguageKey": "Ske_Hamate_L",
+    "LanguageValue": "钩骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Hamate_R",
+    "LanguageValue": "钩骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Humerus_arm_brachium__L",
+    "LanguageValue": "肱骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Humerus_arm_brachium__R",
+    "LanguageValue": "肱骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Hyoid",
+    "LanguageValue": "舌骨"
+  },
+  {
+    "LanguageKey": "Ske_Ilium_L",
+    "LanguageValue": "髂骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Ilium_R",
+    "LanguageValue": "髂骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Incisor_central_L",
+    "LanguageValue": "中切牙（左）"
+  },
+  {
+    "LanguageKey": "Ske_Incisor_central_L_1",
+    "LanguageValue": "中切牙（左）1"
+  },
+  {
+    "LanguageKey": "Ske_Incisor_central_R",
+    "LanguageValue": "中切牙（右）"
+  },
+  {
+    "LanguageKey": "Ske_Incisor_central_R_1",
+    "LanguageValue": "中切牙（右）1"
+  },
+  {
+    "LanguageKey": "Ske_Incisor_lateral_L",
+    "LanguageValue": "侧切牙（左）"
+  },
+  {
+    "LanguageKey": "Ske_Incisor_lateral_L_1",
+    "LanguageValue": "侧切牙（左）1"
+  },
+  {
+    "LanguageKey": "Ske_Incisor_lateral_R",
+    "LanguageValue": "侧切牙（右）"
+  },
+  {
+    "LanguageKey": "Ske_Incisor_lateral_R_1",
+    "LanguageValue": "侧切牙（右）1"
+  },
+  {
+    "LanguageKey": "Ske_Intermediate_cuneiform_L",
+    "LanguageValue": "中间楔骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Intermediate_cuneiform_R",
+    "LanguageValue": "中间楔骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_L01_Vertebra",
+    "LanguageValue": "第1腰椎"
+  },
+  {
+    "LanguageKey": "Ske_L02_Vertebra",
+    "LanguageValue": "第2腰椎"
+  },
+  {
+    "LanguageKey": "Ske_L03_Vertebra",
+    "LanguageValue": "第3腰椎"
+  },
+  {
+    "LanguageKey": "Ske_L04_Vertebra",
+    "LanguageValue": "第4腰椎"
+  },
+  {
+    "LanguageKey": "Ske_L05_Vertebra",
+    "LanguageValue": "第5腰椎"
+  },
+  {
+    "LanguageKey": "Ske_Lacrimal_L",
+    "LanguageValue": "泪骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Lacrimal_R",
+    "LanguageValue": "泪骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Lateral_cuneiform_L",
+    "LanguageValue": "外楔骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Lateral_cuneiform_R",
+    "LanguageValue": "外楔骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Lunate_L",
+    "LanguageValue": "月骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Lunate_R",
+    "LanguageValue": "月骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Mandible_L",
+    "LanguageValue": "下颌骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Mandible_R",
+    "LanguageValue": "下颌骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Manubrium",
+    "LanguageValue": "胸骨柄"
+  },
+  {
+    "LanguageKey": "Ske_Maxilla_L",
+    "LanguageValue": "上颌骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Maxilla_R",
+    "LanguageValue": "上颌骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Medial_cuneiform_L",
+    "LanguageValue": "内侧楔骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Medial_cuneiform_R",
+    "LanguageValue": "内侧楔骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Molar_first_L",
+    "LanguageValue": "第1磨牙（左）"
+  },
+  {
+    "LanguageKey": "Ske_Molar_first_L_1",
+    "LanguageValue": "第1磨牙（左）1"
+  },
+  {
+    "LanguageKey": "Ske_Molar_first_R",
+    "LanguageValue": "第1磨牙（右）"
+  },
+  {
+    "LanguageKey": "Ske_Molar_first_R_1",
+    "LanguageValue": "第1磨牙（右）1"
+  },
+  {
+    "LanguageKey": "Ske_Molar_second_L",
+    "LanguageValue": "第2磨牙（左）"
+  },
+  {
+    "LanguageKey": "Ske_Molar_second_L_1",
+    "LanguageValue": "第2磨牙（左）1"
+  },
+  {
+    "LanguageKey": "Ske_Molar_second_R",
+    "LanguageValue": "第2磨牙（右）"
+  },
+  {
+    "LanguageKey": "Ske_Molar_second_R_1",
+    "LanguageValue": "第2磨牙（右）1"
+  },
+  {
+    "LanguageKey": "Ske_Molar_third_wisdom__L",
+    "LanguageValue": "第3磨牙（左）"
+  },
+  {
+    "LanguageKey": "Ske_Molar_third_wisdom__L_1",
+    "LanguageValue": "第3磨牙（左）1"
+  },
+  {
+    "LanguageKey": "Ske_Molar_third_wisdom__R",
+    "LanguageValue": "第3磨牙（右）"
+  },
+  {
+    "LanguageKey": "Ske_Molar_third_wisdom__R_1",
+    "LanguageValue": "第3磨牙（右）1"
+  },
+  {
+    "LanguageKey": "Ske_Nasal_concha_turbinate__inferior_lower__L",
+    "LanguageValue": "下鼻甲（左）"
+  },
+  {
+    "LanguageKey": "Ske_Nasal_concha_turbinate__inferior_lower__R",
+    "LanguageValue": "下鼻甲（右）"
+  },
+  {
+    "LanguageKey": "Ske_Nasal_L",
+    "LanguageValue": "鼻骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Nasal_R",
+    "LanguageValue": "鼻骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Navicular_L",
+    "LanguageValue": "足舟骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Navicular_R",
+    "LanguageValue": "足舟骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Ninth_costal_bone_09__L",
+    "LanguageValue": "第9肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Ninth_costal_bone_09__R",
+    "LanguageValue": "第9肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Occipital",
+    "LanguageValue": "枕骨"
+  },
+  {
+    "LanguageKey": "Ske_Palatine_L",
+    "LanguageValue": "腭骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Palatine_R",
+    "LanguageValue": "腭骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Parietal_L",
+    "LanguageValue": "顶骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Parietal_R",
+    "LanguageValue": "顶骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Patella_knee_cap__L",
+    "LanguageValue": "髌骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Patella_knee_cap__R",
+    "LanguageValue": "髌骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Pisiform_L",
+    "LanguageValue": "豌豆骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Pisiform_R",
+    "LanguageValue": "豌豆骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Premolar_bicuspid__first_L",
+    "LanguageValue": "第1前磨牙（左）"
+  },
+  {
+    "LanguageKey": "Ske_Premolar_bicuspid__first_L_1",
+    "LanguageValue": "第1前磨牙（左）1"
+  },
+  {
+    "LanguageKey": "Ske_Premolar_bicuspid__first_R",
+    "LanguageValue": "第1前磨牙（右）"
+  },
+  {
+    "LanguageKey": "Ske_Premolar_bicuspid__first_R_1",
+    "LanguageValue": "第1前磨牙（右）1"
+  },
+  {
+    "LanguageKey": "Ske_Premolar_bicuspid__second_L",
+    "LanguageValue": "第2前磨牙（左）"
+  },
+  {
+    "LanguageKey": "Ske_Premolar_bicuspid__second_L_1",
+    "LanguageValue": "第2前磨牙（左）1"
+  },
+  {
+    "LanguageKey": "Ske_Premolar_bicuspid__second_R",
+    "LanguageValue": "第2前磨牙（右）"
+  },
+  {
+    "LanguageKey": "Ske_Premolar_bicuspid__second_R_1",
+    "LanguageValue": "第2前磨牙（右）1"
+  },
+  {
+    "LanguageKey": "Ske_Radius_forearm_antebrachium__R",
+    "LanguageValue": "桡骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Radius_forearm_antebrachium__R001",
+    "LanguageValue": "桡骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_S01_05_Sacrum",
+    "LanguageValue": "骶骨"
+  },
+  {
+    "LanguageKey": "Ske_Scaphoid_L",
+    "LanguageValue": "手舟骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Scaphoid_R",
+    "LanguageValue": "手舟骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Scapula_L",
+    "LanguageValue": "肩胛骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Scapula_R",
+    "LanguageValue": "肩胛骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Second_costal_bone_02__L",
+    "LanguageValue": "第2肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Second_costal_bone_02__R",
+    "LanguageValue": "第2肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Sesamoid_lateral_L",
+    "LanguageValue": "籽骨外侧（左）"
+  },
+  {
+    "LanguageKey": "Ske_Sesamoid_lateral_R",
+    "LanguageValue": "籽骨外侧（右）"
+  },
+  {
+    "LanguageKey": "Ske_Sesamoid_medial_L",
+    "LanguageValue": "籽骨内侧（左）"
+  },
+  {
+    "LanguageKey": "Ske_Sesamoid_medial_R",
+    "LanguageValue": "籽骨内侧（右）"
+  },
+  {
+    "LanguageKey": "Ske_Seventh_costal_bone_07__L",
+    "LanguageValue": "第7肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Seventh_costal_bone_07__R",
+    "LanguageValue": "第7肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Sixth_costal_bone_06__L",
+    "LanguageValue": "第6肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Sixth_costal_bone_06__R",
+    "LanguageValue": "第6肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Sphenoid",
+    "LanguageValue": "蝶骨"
+  },
+  {
+    "LanguageKey": "Ske_T01_Vertebra",
+    "LanguageValue": "第1胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T02_Vertebra",
+    "LanguageValue": "第2胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T03_Vertebra",
+    "LanguageValue": "第3胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T04_Vertebra",
+    "LanguageValue": "第4胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T05_Vertebra",
+    "LanguageValue": "第5胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T06_Vertebra",
+    "LanguageValue": "第6胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T07_Vertebra",
+    "LanguageValue": "第7胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T08_Vertebra",
+    "LanguageValue": "第8胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T09_Vertebra",
+    "LanguageValue": "第9胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T10_Vertebra",
+    "LanguageValue": "第10胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T11_Vertebra",
+    "LanguageValue": "第11胸椎"
+  },
+  {
+    "LanguageKey": "Ske_T12_Vertebra",
+    "LanguageValue": "第12胸椎"
+  },
+  {
+    "LanguageKey": "Ske_Talus_L",
+    "LanguageValue": "距骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Talus_R",
+    "LanguageValue": "距骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Temporal_L",
+    "LanguageValue": "颞骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Temporal_R",
+    "LanguageValue": "颞骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Tenth_costal_bone_10__L",
+    "LanguageValue": "第10肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Tenth_costal_bone_10__R",
+    "LanguageValue": "第10肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Third_costal_bone_03__L",
+    "LanguageValue": "第3肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Third_costal_bone_03__R",
+    "LanguageValue": "第3肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Tibia_leg__L",
+    "LanguageValue": "胫骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Tibia_leg__R",
+    "LanguageValue": "胫骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Trapezium_L",
+    "LanguageValue": "大多角骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Trapezium_R",
+    "LanguageValue": "大多角骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Trapezoid_L",
+    "LanguageValue": "小多角骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Trapezoid_R",
+    "LanguageValue": "小多角骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Triquetral_triangular__L",
+    "LanguageValue": "三角骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Triquetral_triangular__R",
+    "LanguageValue": "三角骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Twelfth_costal_bone_12__L",
+    "LanguageValue": "第12肋骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Twelfth_costal_bone_12__R",
+    "LanguageValue": "第12肋骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Ulna_forearm_antebrachium__L",
+    "LanguageValue": "尺骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Ulna_forearm_antebrachium__R",
+    "LanguageValue": "尺骨（右）"
+  },
+  {
+    "LanguageKey": "Ske_Vomer",
+    "LanguageValue": "犁骨"
+  },
+  {
+    "LanguageKey": "Ske_Xiphoid_process",
+    "LanguageValue": "剑突"
+  },
+  {
+    "LanguageKey": "Ske_Zygomatic_L",
+    "LanguageValue": "颧骨（左）"
+  },
+  {
+    "LanguageKey": "Ske_Zygomatic_R",
+    "LanguageValue": "颧骨（右）"
+  },
+  {
+    "LanguageKey": "Nervous System",
+    "LanguageValue": "神经系统"
+  },
+  {
+    "LanguageKey": "Ner_Amygdala_L",
+    "LanguageValue": "扁桃体（左）"
+  },
+  {
+    "LanguageKey": "Ner_Amygdala_R",
+    "LanguageValue": "扁桃体（右）"
+  },
+  {
+    "LanguageKey": "Ner_Anterior_commissure_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Anterior_commissure_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Anterior_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Anterior_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Anterior_thalamic_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Anterior_thalamic_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Arbor_vitae_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Arbor_vitae_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Arcuate_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Arcuate_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Cauda_equina",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Caudate_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Caudate_nucleus_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Central_sulcus_Fissure_of_Rolando__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Cerebellar_peduncle_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Cerebellar_tonsil_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Cerebellum_anterior_lobe_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Cerebellum_anterior_lobe_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Cerebellum_posterior_lobe_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Cingulate_gyrus_limbic_lobe__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Cingulate_gyrus_limbic_lobe_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Cingulate_gyrus_limbic_lobe_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Conus_medullaris",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Corpus_callosum_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Corpus_callosum_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Dentate_gyrus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Dentate_gyrus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Dorsal_hypothalamic_area_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Dorsal_hypothalamic_area_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Dorsomedial_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Dorsomedial_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Dura_mater",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Dura_mater_spinal_cord",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_External_capsule_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Flocculus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Fornix_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Fornix_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Fourth_ventricle_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Fourth_ventricle_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Frontal_lobe_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Globus_pallidus_lateral_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Globus_pallidus_lateral_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Globus_pallidus_medial_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Globus_pallidus_medial_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Hippocampus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Hippocampus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Hypothalamus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Hypothalamus_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Indusium_griseum_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Indusium_griseum_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Inferior_colliculus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Inferior_colliculus_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Infundibulum_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Infundibulum_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Interthalamic_adhesion_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Interthalamic_adhesion_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Lateral_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Lateral_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Lateral_preoptic_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Lateral_preoptic_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Lateral_sulcus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Lateral_thalamic_nuclei_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Lateral_thalamic_nuclei_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Lateral_ventricle_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Lateral_ventricle_L_1",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Mammillary_body_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Mammillary_body_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Medial_preoptic_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Medial_preoptic_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Medial_thalamic_nuclei_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Medial_thalamic_nuclei_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Medulla_oblongata_left_side",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Medulla_oblongata_left_side001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Midbrain_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Midbrain_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Neurohypophysis_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Neurohypophysis_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Occipital_lobe_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Optic_chiasm_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Optic_chiasm_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Paraventricular_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Paraventricular_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Parietal_lobe_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Parieto_occipital_sulcus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pars_distalis_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pars_distalis_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pars_intermedialis_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pars_intermedialis_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pars_tuberalis_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pars_tuberalis_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pineal_gland_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pineal_gland_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pons_left_side",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pons_right_side",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Postcentral_gyrus_part_of_parietal_lobe__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Posterior_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Posterior_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Precentral_gyrus_part_of_frontal_cortex__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pulvinar_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Pulvinar_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Putamen_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Putamen_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Septal_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Septal_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Spinal_cord",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Superior_colliculus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Superior_colliculus_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Suprachiasmatic_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Suprachiasmatic_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Supraoptic_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Supraoptic_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Temporal_lobe_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Thalamus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Thalamus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Third_ventricle_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Third_ventricle_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Ventromedial_nucleus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Ventromedial_nucleus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ner_Vermis_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "reproductive system",
+    "LanguageValue": "生殖系统"
+  },
+  {
+    "LanguageKey": "Rep_Bucks_fascia_lower",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Bucks_fascia_upper",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Bulbourethral_glands_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Bulbourethral_glands_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Corpus_cavernosum_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Corpus_cavernosum_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Corpus_spongiosum",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Dartos_fascia",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Ejaculatory_duct_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Ejaculatory_duct_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Epididymis_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Epididymis_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Glans_penis",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Prostate_anterior_lobe",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Prostate_L_half",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Prostate_lateral_lobe",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Prostate_median_lobe",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Prostate_posterior_lobe",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Prostate_R_half",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Prostatic_capsule_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Prostatic_capsule_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Seminal_vesicle_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Seminal_vesicle_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Spermatic_fascia_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Spermatic_fascia_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Testicle_lateral_half_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Testicle_lateral_half_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Testicle_medial_half_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Testicle_medial_half_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Tunica_albuginea",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Vas_deferens_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Rep_Vas_deferens_L002",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "respiratory system",
+    "LanguageValue": "呼吸系统"
+  },
+  {
+    "LanguageKey": "Dig_Oropharynx",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Higher_order_branches_and_bronchioles_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Higher_order_branches_and_bronchioles_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Horizontal_fissure_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Inferior_lobe_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Inferior_lobe_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Middle_lobe_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Oblique_fissure_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Oblique_fissure_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Primary_bronchus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Primary_bronchus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Primary_cartilaginous_rings_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Primary_cartilaginous_rings_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Root_hilum_of_lung_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Root_hilum_of_lung_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Secondary_cartilaginous_rings_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Secondary_cartilaginous_rings_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Res_Secondary_lobar_bronchi_L",
+    "LanguageValue": "二级肺叶支气管（左）"
+  },
+  {
+    "LanguageKey": "Res_Secondary_lobar_bronchi_R",
+    "LanguageValue": "二级肺叶支气管（右）"
+  },
+  {
+    "LanguageKey": "Res_Superior_lobe_L",
+    "LanguageValue": "上叶（左）"
+  },
+  {
+    "LanguageKey": "Res_Superior_lobe_R",
+    "LanguageValue": "上叶（右）"
+  },
+  {
+    "LanguageKey": "Res_Tertiary_segmental_bronchi_L",
+    "LanguageValue": "第三节段性支气管（左）"
+  },
+  {
+    "LanguageKey": "Res_Tertiary_segmental_bronchi_R",
+    "LanguageValue": "第三节段性支气管（右）"
+  },
+  {
+    "LanguageKey": "Res_Trachea_1",
+    "LanguageValue": "气管"
+  },
+  {
+    "LanguageKey": "Res_Tracheal_cartilaginous_rings",
+    "LanguageValue": "气管软骨环"
+  },
+  {
+    "LanguageKey": "sensory organs",
+    "LanguageValue": "感 觉 器"
+  },
+  {
+    "LanguageKey": "Male__skin__shoulder_and_arm_L",
+    "LanguageValue": "全身皮肤"
+  },
+  {
+    "LanguageKey": "Ner_EyeL",
+    "LanguageValue": "眼睛（左）"
+  },
+  {
+    "LanguageKey": "Ner_EyeR",
+    "LanguageValue": "眼睛（右）"
+  },
+  {
+    "LanguageKey": "syndesm",
+    "LanguageValue": "结缔组织"
+  },
+  {
+    "LanguageKey": "Con__Subtendinous__bursa_of_calcaneal_tendon_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con__Subtendinous__bursa_of_calcaneal_tendon_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Acetabular_Labrum_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Acetabular_Labrum_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Anserine_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Anserine_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Anterior_Longitudinal_Ligament_Cervical_Part_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Anterior_Longitudinal_Ligament_Lumbar_Part_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Anterior_Longitudinal_Ligament_Sacral_Part_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Anterior_Longitudinal_Ligament_Thoracic_Part_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Biceps_femoris_subtendinous_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Biceps_femoris_subtendinous_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Bursa_deep_to_fibular_collateral_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Bursa_deep_to_fibular_collateral_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Bursa_deep_to_iliotibial_tract_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Bursa_deep_to_iliotibial_tract_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Calcaneal_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Calcaneal_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Common_flexor_sheath__ulnar_bursa__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Common_flexor_sheath__ulnar_bursa__L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Costal_Cartilage_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Costal_Cartilage_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Deep__subtendinous__infrapatellar_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Deep__subtendinous__infrapatellar_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Greater_trochanteric_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Greater_trochanteric_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Iliopectineal_arch_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Iliopectineal_arch_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Iliopectineal_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Iliopectineal_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Infraspinatus_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Infraspinatus_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Intertubercular_tendon_sheath_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Intertubercular_tendon_sheath_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Ischiogluteal_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Ischiogluteal_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Lateral_collateral_fibular_collateral_ligament_LCL__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Lateral_collateral_fibular_collateral_ligament_LCL__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Lateral_gastrocnemius_subtendinous_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Lateral_gastrocnemius_subtendinous_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Medial_gastrocnemius_subtendinous_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Medial_gastrocnemius_subtendinous_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Posterior_Longitudinal_Ligament_Cervical_Part_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Posterior_Longitudinal_Ligament_Lumbar_Part_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Posterior_Longitudinal_Ligament_Sacral_Part_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Posterior_Longitudinal_Ligament_Thoracic_Part_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Pterygospinous_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Pterygospinous_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Semimembranosus_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Semimembranosus_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subacromial_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subacromial_bursa_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_acromial_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_acromial_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_bursa_of_lateral_malleolus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_bursa_of_lateral_malleolus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_bursa_of_medial_malleolus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_bursa_of_medial_malleolus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_calcaneal_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_calcaneal_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_infrapatellar_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_infrapatellar_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_olecranon_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_olecranon_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_prepatellar_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subcutaneous_prepatellar_bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subdeltoid_bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subdeltoid_bursa_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subpopliteal__recess__bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subpopliteal__recess__bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subtendinous_bursa_of_subscapularis_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Subtendinous_bursa_of_subscapularis_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Suprapatellar__synovial__bursa_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Suprapatellar__synovial__bursa_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Supraspinous_ligament_Sacral_Part_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Con_Supraspinous_ligament_Thoracic_Part_",
+    "LanguageValue": "胸棘上韧带"
+  },
+  {
+    "LanguageKey": "Con_Tendinous_sheath_of_flexor_pollicis_longus__radial_bursa__L",
+    "LanguageValue": "桡长屈肌囊的腱鞘（左）"
+  },
+  {
+    "LanguageKey": "Con_Tendinous_sheath_of_flexor_pollicis_longus__radial_bursa__L001",
+    "LanguageValue": "桡长屈肌囊的腱鞘（右）"
+  },
+  {
+    "LanguageKey": "Con_Transverse_Acetabular_Ligament_L",
+    "LanguageValue": "髋臼横韧带（左）"
+  },
+  {
+    "LanguageKey": "Con_Transverse_Acetabular_Ligament_R",
+    "LanguageValue": "髋臼横韧带（右）"
+  },
+  {
+    "LanguageKey": "Ske_Acromioclavicular_ligament_L",
+    "LanguageValue": "肩锁韧带（左）"
+  },
+  {
+    "LanguageKey": "Ske_Acromioclavicular_ligament_L001",
+    "LanguageValue": "肩锁韧带（右）"
+  },
+  {
+    "LanguageKey": "Ske_Alar_ligament_L",
+    "LanguageValue": "翼状韧带（左）"
+  },
+  {
+    "LanguageKey": "Ske_Alar_ligament_R",
+    "LanguageValue": "翼状韧带（右）"
+  },
+  {
+    "LanguageKey": "Ske_Annular_ligament_of_radius_R",
+    "LanguageValue": "桡骨环状韧带（右）"
+  },
+  {
+    "LanguageKey": "Ske_Annular_ligament_of_radius_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Anterior_cruciate_ligament_ACL__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Anterior_cruciate_ligament_ACL__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Anterior_sacroiliac_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Anterior_sacroiliac_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Anterolateral_ligament_ALL__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Anterolateral_ligament_ALL__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Apical_ligament_of_the_dens",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Articular_capsule_elbow__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Articular_capsule_elbow__L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Arytenoid_cartilage_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Arytenoid_cartilage_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Atlanto_occipital_capsule_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Atlanto_occipital_capsule_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Bifurcate_calcaneocuboid_and_calcaneonavicular_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Bifurcate_calcaneocuboid_and_calcaneonavicular_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_C02_C03_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_C03_C04_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_C04_C05_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_C05_C06_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_C06_C07_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_C07_T01_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Capsular_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Capsular_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Carpometacarpal_articular_capsule_of_pollex_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Carpometacarpal_articular_capsule_of_pollex_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Cartilage_of_auditory_tube_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Cartilage_of_auditory_tube_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Coracoacromial_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Coracoacromial_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Coracoclavicular_ligament_conoid_portion_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Coracoclavicular_ligament_conoid_portion_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Coracoclavicular_ligament_trapezoid_portion_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Coracoclavicular_ligament_trapezoid_portion_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Coracohumeral_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Coracohumeral_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Corniculate_cartilage_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Corniculate_cartilage_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Cricoid_cartilage",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Cricothyroid_membrane_and_ligament",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Cricotracheal_ligament",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Deep_transverse_metacarpal_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Deep_transverse_metacarpal_ligaments_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Deep_transverse_metatarsal_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Deep_transverse_metatarsal_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Distal_intercarpal_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Distal_intercarpal_ligaments_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_calcaneocuboid_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_calcaneocuboid_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_carpometacarpal_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_carpometacarpal_ligaments_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_cuboideonavicular_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_cuboideonavicular_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_cuneocuboid_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_cuneocuboid_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_cuneonavicular_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_cuneonavicular_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_intercarpal_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_intercarpal_ligaments_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_intercuneiform_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_intercuneiform_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_metacarpal_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_metacarpal_ligaments_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_metatarsal_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_metatarsal_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_radiocarpal_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_radiocarpal_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_radioulnar_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_radioulnar_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_tarsometatarsal_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Dorsal_tarsometatarsal_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Epiglottis",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Extensor_retinaculum_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Extensor_retinaculum_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Flexor_retinaculum_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Flexor_retinaculum_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Flexor_retinaculum_wrist__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Flexor_retinaculum_wrist__L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Greater_alar_major_alar_lower_lateral_cartilage_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Greater_alar_major_alar_lower_lateral_cartilage_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Hyoepiglottic_ligament",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Iliofemoral_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Iliofemoral_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Iliolumbar_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Iliolumbar_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Inferior_extensor_retinaculum_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Inferior_extensor_retinaculum_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Inferior_glenohumeral_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Inferior_glenohumeral_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Inferior_peroneal_retinaculum_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Inferior_peroneal_retinaculum_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Inguinal_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Inguinal_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interosseous_anterior_talocalcaneal_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interosseous_anterior_talocalcaneal_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interosseous_membrane_antebrachial__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interosseous_membrane_antebrachial__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interosseous_membrane_of_the_leg_middle_tibiofibular_ligament__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interosseous_membrane_of_the_leg_middle_tibiofibular_ligament__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_articular_capsule_of_pollex_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_articular_capsule_of_pollex_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_distal_articular_capsules_of_the_hand_DIP_joints__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_distal_articular_capsules_of_the_hand_DIP_joints__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_distal_ligaments_of_the_foot_DIP_joints__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_distal_ligaments_of_the_foot_DIP_joints__R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_ligament_of_hallux_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_ligament_of_hallux_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_proximal_articular_capsules_of_the_hand_PIP_joints__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_proximal_articular_capsules_of_the_hand_PIP_joints__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_proximal_ligaments_of_the_foot_PIP_joints__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Interphalangeal_proximal_ligaments_of_the_foot_PIP_joints__R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Intertransverse_cervical_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Intertransverse_cervical_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Intertransverse_lumbar_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Intertransverse_lumbar_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Intertransverse_thoracic_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Intertransverse_thoracic_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ischiofemoral_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ischiofemoral_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Joint_capsule_mandible__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Joint_capsule_mandible__R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_L01_L02_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_L02_L03_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_L03_L04_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_L04_L05_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_L05_S01_Sacral_intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_collateral_ligament_anterior_talofibular_part__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_collateral_ligament_anterior_talofibular_part__L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_collateral_ligament_calcaneofibular_part__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_collateral_ligament_calcaneofibular_part__R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_collateral_ligament_posterior_talofibular_part__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_collateral_ligament_posterior_talofibular_part__L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_ligament_mandible__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_ligament_mandible__L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_meniscus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_meniscus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_talocalcaneal_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_talocalcaneal_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_upper_lateral_nasal_cartilage_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Lateral_upper_lateral_nasal_cartilage_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ligamenta_flava_cervical_region",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ligamenta_flava_lumbar_region",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ligamenta_flava_thoracic_region",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Linea_alba",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Long_plantar_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Long_plantar_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Longitudinal_fascicles_part_of_the_cruciform_ligament_of_the_atlas_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_collateral_tibial_collateral_ligament_MCL__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_collateral_tibial_collateral_ligament_MCL__L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_deltoid_ligament_posterior_tibiotalar_part__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_deltoid_ligament_posterior_tibiotalar_part__R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_deltoid_ligament_tibiocalcaneal_part__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_deltoid_ligament_tibiocalcaneal_part__L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_deltoid_ligament_tibionavicular_part__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_deltoid_ligament_tibionavicular_part__R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_meniscus_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_meniscus_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_talocalcaneal_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Medial_talocalcaneal_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Metacarpophalangeal_articular_capsule_of_pollex_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Metacarpophalangeal_articular_capsule_of_pollex_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Metacarpophalangeal_articular_capsules_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Metacarpophalangeal_articular_capsules_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Metatarsophalangeal_articular_capsule_of_hallux_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Metatarsophalangeal_articular_capsule_of_hallux_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Metatarsophalangeal_articular_capsules_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Metatarsophalangeal_articular_capsules_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Middle_glenohumeral_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Middle_glenohumeral_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Nuchal_ligament",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Oblique_cord_elbow__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Oblique_cord_elbow__L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Obturator_membrane_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Obturator_membrane_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_intercarpal_ligament_scaphotrapezium__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_intercarpal_ligament_scaphotrapezium__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_metacarpal_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_metacarpal_ligaments_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_radiocarpal_ligament_radiocapitate_part_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_radiocarpal_ligament_radiocapitate_part_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_radiocarpal_ligament_radioscapholunate_part_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_radiocarpal_ligament_radioscapholunate_part_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_radiocarpal_ligament_radiotriquetral_part_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_radiocarpal_ligament_radiotriquetral_part_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_ulnocarpal_ligament_ulnolunate_and_ulnotriquetral__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_ulnocarpal_ligament_ulnolunate_and_ulnotriquetral__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_volar_carpometacarpal_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_volar_carpometacarpal_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_volar_radioulnar_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Palmar_volar_radioulnar_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Patellar_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Patellar_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Pisohamate_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Pisohamate_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Plantar_aponeurosis_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Plantar_aponeurosis_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Plantar_calcaneocuboid_short_plantar_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Plantar_calcaneocuboid_short_plantar_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Plantar_calcaneonavicular_spring_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Plantar_calcaneonavicular_spring_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Plantar_cuboideonavicular_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Plantar_cuboideonavicular_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Plantar_metatarsal_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Plantar_metatarsal_ligaments_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_atlanto_occipital_membrane",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_atlantoaxial_ligament",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_cruciate_ligament_PCL__L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_cruciate_ligament_PCL__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_sacroiliac_ligament_lower_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_sacroiliac_ligament_lower_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_sacroiliac_ligament_upper_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_sacroiliac_ligament_upper_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_talocalcaneal_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_talocalcaneal_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_tibiofibular_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Posterior_tibiofibular_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Pubic_symphysis",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Pubofemoral_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Pubofemoral_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radial_collateral_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radial_collateral_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radial_collateral_ligament_R_1",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radial_collateral_ligament_R_002",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radiate_carpal_ligament_capitohamate_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radiate_carpal_ligament_capitohamate_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radiate_carpal_ligament_capitotrapezial_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radiate_carpal_ligament_capitotrapezial_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radiate_carpal_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radiate_carpal_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radiate_carpal_ligament_lunotriquetral_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radiate_carpal_ligament_lunotriquetral_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radiate_carpal_ligament_scaphotrapezial_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Radiate_carpal_ligament_scaphotrapezial_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Sacrospinous_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Sacrospinous_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Sacrotuberous_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Sacrotuberous_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Scaphocapitate_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Scaphocapitate_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Septal_cartilage",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Sphenomandibular_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Sphenomandibular_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Sternoclavicular_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Sternoclavicular_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Stylohyoid_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Stylohyoid_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Stylomandibular_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Stylomandibular_ligament_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Superficial_transverse_metacarpal_ligaments_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Superficial_transverse_metacarpal_ligaments_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Superior_extensor_retinaculum_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Superior_extensor_retinaculum_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Superior_glenohumeral_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Superior_glenohumeral_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Superior_peroneal_retinaculum_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Superior_peroneal_retinaculum_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Superior_transverse_scapular_ligament_forms_suprascapular_foramen__R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Superior_transverse_scapular_ligament_forms_suprascapular_foramen__R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T01_T02_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T02_T03_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T03_T04_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T04_T05_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T05_T06_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T06_T07_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T07_T08_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T08_T09_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T09_T10_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T10_T11_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T11_T12_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_T12_L01_Intervertebral_disc_intervertebral_fibrocartilage_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Talonavicular_ligament_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Talonavicular_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Tectorial_membrane_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Tectorial_membrane_of_atlanto_axial_joint",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Tectorial_membrane_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Thyrohyoid_membrane",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Thyroid_cartilage",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Tibiofibular_ligament_anterior_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Tibiofibular_ligament_anterior_L001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Transverse_humeral_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Transverse_humeral_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Transverse_ligament_part_of_the_cruciform_ligament_of_the_atlas_",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ulnar_collateral_ligament_anterior_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ulnar_collateral_ligament_anterior_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ulnar_collateral_ligament_pisiform_portion_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ulnar_collateral_ligament_pisiform_portion_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ulnar_collateral_ligament_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ulnar_collateral_ligament_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ulnar_collateral_ligament_transverse_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ulnar_collateral_ligament_transverse_R001",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Ske_Ulnocarpal_joint_articular_disc__L",
+    "LanguageValue": "关节盘（左）"
+  },
+  {
+    "LanguageKey": "Ske_Ulnocarpal_joint_articular_disc__R",
+    "LanguageValue": "关节盘（右）"
+  },
+  {
+    "LanguageKey": "Ske_Vocal_ligament_L",
+    "LanguageValue": "声韧带（左）"
+  },
+  {
+    "LanguageKey": "Ske_Vocal_ligament_R",
+    "LanguageValue": "声韧带（右）"
+  },
+  {
+    "LanguageKey": "urinary system",
+    "LanguageValue": "泌尿系统"
+  },
+  {
+    "LanguageKey": "Uri_Bladder_inner_surface_L_half",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Uri_Bladder_inner_surface_R_half",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Uri_Bladder_L_half_1",
+    "LanguageValue": "膀胱（左半）"
+  },
+  {
+    "LanguageKey": "Uri_Bladder_neck_L_half",
+    "LanguageValue": "膀胱颈（左半）"
+  },
+  {
+    "LanguageKey": "Uri_Bladder_neck_R_half",
+    "LanguageValue": "膀胱颈（右半）"
+  },
+  {
+    "LanguageKey": "Uri_Bladder_R_half_1",
+    "LanguageValue": "膀胱（右半）"
+  },
+  {
+    "LanguageKey": "Uri_Bladder_trigone_L_half",
+    "LanguageValue": "膀胱三角（左半）"
+  },
+  {
+    "LanguageKey": "Uri_Bladder_trigone_R_half",
+    "LanguageValue": "膀胱三角（右半）"
+  },
+  {
+    "LanguageKey": "Uri_Destrusor_muscle_L_half",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Uri_Destrusor_muscle_R_half",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Uri_External_urethral_sphincter",
+    "LanguageValue": "尿道外括约肌"
+  },
+  {
+    "LanguageKey": "Uri_Internal_urethral_sphincter",
+    "LanguageValue": "尿道内括约肌"
+  },
+  {
+    "LanguageKey": "Uri_Kidney_back_L",
+    "LanguageValue": "肾脏后半（左）"
+  },
+  {
+    "LanguageKey": "Uri_Kidney_back_R",
+    "LanguageValue": "肾脏后半（右）"
+  },
+  {
+    "LanguageKey": "Uri_Kidney_front_L",
+    "LanguageValue": "肾脏前半（左）"
+  },
+  {
+    "LanguageKey": "Uri_Kidney_front_R",
+    "LanguageValue": "肾脏前半（右）"
+  },
+  {
+    "LanguageKey": "Uri_Pyramids_L",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Uri_Pyramids_R",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Uri_Renal_pelvis_L",
+    "LanguageValue": "肾盂（左）"
+  },
+  {
+    "LanguageKey": "Uri_Renal_pelvis_R",
+    "LanguageValue": "肾盂（右）"
+  },
+  {
+    "LanguageKey": "Uri_Ureter_L",
+    "LanguageValue": "输尿管（左）"
+  },
+  {
+    "LanguageKey": "Uri_Ureter_R",
+    "LanguageValue": "输尿管（右）"
+  },
+  {
+    "LanguageKey": "Uri_Ureteral_orifice_L",
+    "LanguageValue": "输尿管口（左）"
+  },
+  {
+    "LanguageKey": "Uri_Ureteral_orifice_R",
+    "LanguageValue": "输尿管口（右）"
+  },
+  {
+    "LanguageKey": "Uri_Urethra_membranous_L_half",
+    "LanguageValue": "尿道膜部（左半）"
+  },
+  {
+    "LanguageKey": "Uri_Urethra_membranous_R_half",
+    "LanguageValue": "尿道膜部（右半）"
+  },
+  {
+    "LanguageKey": "Uri_Urethra_prostatic_portion_L_half",
+    "LanguageValue": "尿道前列腺部（左半）"
+  },
+  {
+    "LanguageKey": "Uri_Urethra_prostatic_portion_R_half",
+    "LanguageValue": "尿道前列腺部（右半）"
+  },
+  {
+    "LanguageKey": "Uri_Urethra_spongy_portion_L_half",
+    "LanguageValue": "尿道海绵部（左半）"
+  },
+  {
+    "LanguageKey": "Uri_Urethra_spongy_portion_R_half",
+    "LanguageValue": "尿道海绵部（右半）"
+  },
+  {
+    "LanguageKey": "Uri_Verumontanum_of_prostatic_urethra_L_half",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "Uri_Verumontanum_of_prostatic_urethra_R_half",
+    "LanguageValue": ""
+  },
+  {
+    "LanguageKey": "人体解剖学课程名",
+    "LanguageValue": "人体解剖学"
+  },
+  {
+    "LanguageKey": "生理学课程名",
+    "LanguageValue": "生理学"
+  },
+  {
+    "LanguageKey": "生物化学课程名",
+    "LanguageValue": "生物化学"
+  },
+  {
+    "LanguageKey": "病理学课程名",
+    "LanguageValue": "病理学"
+  },
+  {
+    "LanguageKey": "课程未激活提示",
+    "LanguageValue": "该课程未激活"
+  },
+  {
+    "LanguageKey": "手柄矫正提示标题",
+    "LanguageValue": "请矫正操作手柄"
+  },
+  {
+    "LanguageKey": "手柄矫正提示",
+    "LanguageValue": "矫正方法：1、原地后退两步（距离约1米），找到虚拟手柄。2、将实体手柄放至虚拟手柄位置，扣动下方扳机键，看见蓝色光线即可。"
+  },
+  {
+    "LanguageKey": "手柄矫正提示1",
+    "LanguageValue": "矫正方法：1、在视野中找到虚拟手柄。\n2、将实体手柄放至虚拟手柄位置，扣动下方扳机键，看见蓝色光线即可。"
+  },
+  {
+    "LanguageKey": "模型组合打包提示",
+    "LanguageValue": "组合"
+  },
+  {
+    "LanguageKey": "模型可拆分提示",
+    "LanguageValue": "拆分"
+  },
+  {
+    "LanguageKey": "标记笔功能提示",
+    "LanguageValue": "标记笔"
+  },
+  {
+    "LanguageKey": "语言设置功能",
+    "LanguageValue": "语言设置"
+  },
+  {
+    "LanguageKey": "课程退出提示",
+    "LanguageValue": "退出"
+  },
+  {
+    "LanguageKey": "设置面板",
+    "LanguageValue": "设置"
+  },
+  {
+    "LanguageKey": "设置模型位置",
+    "LanguageValue": "设置模型位置"
+  },
+  {
+    "LanguageKey": "切换视角",
+    "LanguageValue": "切换视角"
+  },
+  {
+    "LanguageKey": "skull",
+    "LanguageValue": "颅骨"
+  }
+]

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExternalConfig>
+  <VersionNum>10000</VersionNum>
+  <IP>127.0.0.1</IP>
+  <Port>3306</Port>
+  <Username>root</Username>
+  <Password>admin</Password>
+  <Database>onewmedical</Database>
+</ExternalConfig>
